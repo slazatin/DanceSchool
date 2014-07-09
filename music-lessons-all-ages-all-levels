@@ -2,10 +2,10 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
 <html>
 <head>
-<title>Dance Classes &amp; Music Lessons Santa Monica - Dance Studio | West LA - Pacific Palisades - Brentwood</title>
+<title>Music Lessons Santa Monica - Best Music Teachers | Pacific Palisades Brentwood West LA</title>
 <link href="styles-santamonicaschoolofdanceandmusic.css" rel="stylesheet" media="screen">
-<META NAME="Keywords" CONTENT="dance classes,music lessons,dance studio,santa monica,pacific palisades,brentwood,west la,summer camps">
-<META NAME="Description" CONTENT="Santa Monica School of Dance and Music provides dance classes and music lessons for all ages at the best dance studio serving Santa Monica, Brentwood, Pacific Palisades, and the greater West LA area.">
+<META NAME="Keywords" CONTENT="music lessons,best music teachers,santa monica,pacific palisades,brentwood,west la,music classes,music school">
+<META NAME="Description" CONTENT="Music lessons at Santa Monica School of Dance and Music provide the best in music instruction serving the greater West LA area including Pacific Palisades and Brentwood. Private music lessons and instruction.">
 <META NAME="robots" content="index,follow">
 <META NAME="revisit-after" content="14">
 <META NAME="copyright" content="Santa Monica School of Dance and Music - All Rights Reserved">
@@ -139,24 +139,24 @@ Santa Monica, CA 90404
 
 <li><a>Music Lessons</a>
 <ul>
-<li><a href="music-lessons-all-ages-all-levels">Music Lessons Home</a>
-<li><a href="piano-keyboard-lessons">Piano &amp; Keyboard Lessons</a></li>
-<li><a href="voice-lessons">Voice &amp; Singing Lessons</a></li>
-<li><a href="guitar-lessons-acoustic-electric-bass">Guitar &amp; Bass Lessons</a></li>
-<li><a href="violin-lessons">Violin Lessons</a></li>
-<li><a href="music-recitals">Music Recitals</a></li> 
+<li><a href="/music-lessons-all-ages-all-levels">Music Lessons Home</a>
+<li><a href="/piano-keyboard-lessons">Piano &amp; Keyboard Lessons</a></li>
+<li><a href="/voice-lessons">Voice &amp; Singing Lessons</a></li>
+<!-- <li><a href="/guitar-lessons-acoustic-electric-bass">Guitar &amp; Bass Lessons</a></li> -->
+<li><a href="/violin-lessons">Violin Lessons</a></li>
+<li><a href="/music-recitals">Music Recitals</a></li> 
 <!-- <li><a href="/testimonials">Testimonials</a></li> -->
-<li><a href="facilities">Facilities</a></li>
+<li><a href="/facilities">Facilities</a></li>
 </ul>
 </li>
 
 <li><a>Current Students</a>
 <ul>
-<li><a href="newsletters">Newsletters</a></li> 
-<li><a href="calendar">Calendar</a></li> 
-<li><a href="dance-recitals">Dance Recital Information</a></li> 
-<li><a href="music-recitals">Music Recital Information</a></li> 
-<li><a href="dance-company">Dance Company</a></li> 
+<li><a href="/newsletters">Newsletters</a></li> 
+<li><a href="/calendar">Calendar</a></li> 
+<li><a href="/dance-recitals">Dance Recital Information</a></li> 
+<li><a href="/music-recitals">Music Recital Information</a></li> 
+<li><a href="/dance-company">Dance Company</a></li> 
 </ul>
 </li>
 
@@ -190,20 +190,40 @@ Santa Monica, CA 90404
 <h4 style="text-align: center; margin: 0; padding: 0; font-size: 25px;">310-453-7617</h4>
 </div>
 
-<!--
 <div class="blackbox" style="text-align: center;">
-<h4 style="text-align: center;">New to the School of Dance and Music?</h4>
 
+<h4 style="text-align: center; font-size: 22px;">Click by Instrument</h4>
+<br>
+<table class="box">
+<tr>
+<td><a href="/piano-keyboard-lessons"><img src="images/btn-music-piano.jpg" alt="Click Here"></a></td>
+<td><a href="/voice-lessons"><img src="images/btn-music-voice.jpg" alt="Click Here"></a></td>
+</tr>
+<tr>
+<td><a href="/guitar-lessons-acoustic-electric-bass"><img src="images/btn-music-guitar.jpg" alt="Click Here"></a></td>
+<td><a href="/violin-lessons"><img src="images/btn-music-violin.jpg" alt="Click Here"></a></td>
+</tr>
+<!-- <tr>
+<td><a href="/violin-lessons"><img src="images/btn-music-violin.jpg" alt="Click Here"></a></td>
+<td><a href="/drum-lessons"><img src="images/btn-music-drums.jpg" alt="Click Here"></a></td>
+</tr> -->
 
-<p>
-<object width="220" height="181" data="http://www.youtube.com/v/zXWMJTHzEG8&amp;feature" type="application/x-shockwave-flash">
-<param name="src" value="http://www.youtube.com/v/zXWMJTHzEG8&amp;feature" />
-</object>
-</p>
-
-<p class="smaller tight">Click above to watch a short video and learn more about our programs.</p>
-</div>
+<!--
+<tr>
+<td colspan="2" align="center"><a href="/"><img src="images/btn-music-songwriting.jpg" alt="Click Here"></a></td>
+</tr>
 -->
+
+</table>
+
+<p><span class="lg bold up">PDF of Schedule</span> <a href="http://www.santamonicaschoolofdanceandmusic.com/docs/Schedules/2013-2014FallSchedule.pdf" target="_new">click here</a></p>
+<p><span class="lg bold up">Tuition</span> <a href="/fees-and-policies#anchor">click here</a></p>
+
+<!--
+<p><span class="lg bold up">How to Register</span> <a href="/how-to-register">click here</a></p>
+-->
+
+</div>
 <div class="greenbox">
 <h4>Why Choose Us?</h4>
 <ul>
@@ -264,47 +284,111 @@ $(document).ready(function(){
 </div> -->
 
 <div class="orangebox">
-<h4 style="font-size: 18px;">Brand new to dance classes or music lessons? Find out what you need to know!</h4>
-<p class="lg"><a href="/5-things-you-should-know-when-choosing-a-dance-studio"> - 5 Things Every Parent Should Know Before Choosing a Dance Studio</a></p>
-<p class="lg"><a href="/5-ways-to-get-the-most-out-of-music-lessons#anchor"> - 5 Ways to Get the Most Out of the Music Lessons</a></p>
-</div>
+<h4 style="font-size: 18px;">Starting Lessons Off Right</h4>
+<ol>
+<li>How Young is Too Young. Starting at the Right Age</li>
+<li>Insist on Private Lessons When Learning a Specific Instrument</li>
+<li>Take Lessons in a Professional Teaching Environment</li>
+<li>Make Practicing Easier</li>
+<li>Use Recognized Teaching Materials</li>
+</ol>
+<p><a href="/5-ways-to-get-the-most-out-of-music-lessons#anchor">See more...</a></p>
+</div>  
+<div class="pinkbox">
+<h4 align="left">Common Q&A</h4>
+<p align="left">Q: Do I need a piano at home to take a piano lessons?</p>
+<p align="left">A: It is ideal if you have a piano at home, but you can start lessons by using an electric keyboard to practice on. Most our students rent or buy...</p>
+<p><a href="/music-frequently-asked-questions#anchor">See more...</a></p>
 </div>
 
-<div class="mainleft">
-<h2 style="text-align: center;">Trying to decide between a few different<br />Dance or Music Schools?</h2>
-<p>Santa Monica's first dance studio and music school to offer both dance  classes and music lessons.  Dance classes in ballet, jazz, hip hop and  more are available along with private music lessons in piano, voice,  guitar, violin and bass. Santa Monica School of Dance and Music provides  students with the skills they need to enjoy dance and music for a  lifetime. Come join us!</p>
-<p style="text-align: center;"><span style="font-size: large;"><strong><a href="../docs/Schedules/2013-2014FallSchedule.pdf" target="_blank">Download our 2013-2014 School Year Schedule</a></strong></span></p>
-<p style="text-align: center;"><span style="font-size: large;"><strong><a href="../docs/Schedules/SummerGuide2014forweb.pdf" target="_blank">Download our 2014 Summer Schedule</a></strong></span></p>
-<p>We realize you have a choice between several different dance studios and  music schools on the Westside. We invite you to compare all of the  features and options to see why we believe our school to be the finest  offering for dance and music in Santa Monica, Culver City, Venice, Mar  Vista and the greater West LA area.</p>
+
+<div class="greenbox">
+<h4 align="center">Music Recital</h4> 
+<p align="center" style="text align: center;"><span class="lg bold">February &amp; June 2014 Music Recital General Info</span><br /><a href="/music-recitals#anchor">click here</a></p>
+</div>
+
+
+</div>
+
+<div class="mainleft" style="min-height: 2450px;">
+<h4>Music Lessons - All Ages - All Levels</h4>
+<p>Santa Monica School of Dance and Music was established in Santa Monica to offer exception music instruction and lessons to the great West LA area.&nbsp; In cooperation with our Dance Program we offer a wide range of options for children to adults.&nbsp; Our music program offers a variety of classes at every level, geared specifically towards providing the best music lessons in Santa Monica.</p>
+<p style="text-align: center;">We offer:<br /> Piano Lessons - Voice Lessons - Guitar Lessons - Bass Lessons<br /> Violin Lessons - Songwriting Lessons</p>
 <p>&nbsp;</p>
-<table class="index">
+<h1>What Makes Us the Best Choice for Music?</h1>
+<div class="indent">
+<hr />
+<table class="pages">
 <tbody>
 <tr>
-<td><img src="../images/home1.jpg" alt="" /></td>
-<td><img src="../images/home2.jpg" alt="" /></td>
-<td><img src="../images/home3.jpg" alt="" /></td>
-</tr>
-<tr>
-<td><img src="../images/home4.jpg" alt="" /></td>
-<td><img src="../images/home5.jpg" alt="" /></td>
-<td><img src="../images/home6.jpg" alt="" /></td>
-</tr>
-<tr>
-<td><img src="../images/ages-5-1.jpg" alt="" width="190" height="190" /></td>
-<td><img src="../images/music-10.jpg" alt="" width="190" height="190" /></td>
-<td><img src="../images/tuition-3.jpg" alt="" width="190" height="190" /></td>
-</tr>
-<tr>
-<td><img src="../images/music-5.jpg" alt="" width="190" height="190" /></td>
-<td><img src="../images/ages-1-4.jpg" alt="" width="190" height="190" /></td>
-<td><img src="../images/music-11.jpg" alt="" width="190" height="190" /></td>
+<td>
+<h2 class="red">Focus on Teaching</h2>
+</td>
+<td style="padding-left: 25px;">
+<p>All we do is teach. We do not sell or rent musical instruments. This leaves us free to specialize in one thing - providing the highest quality of music instruction.</p>
+</td>
 </tr>
 </tbody>
 </table>
+<hr />
+<table class="pages">
+<tbody>
+<tr>
+<td>
+<h2 class="red">University Trained Teachers</h2>
+</td>
+<td style="padding-left: 25px;">
+<p>Our instructors are highly qualified and many have extensive performance experience. Most importantly, our instructors strive to relate their teaching to each individual student's learning style.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<table class="pages">
+<tbody>
+<tr>
+<td>
+<h2 class="red">All Ages - Beginners to Advanced</h2>
+</td>
+<td style="padding-left: 25px;">
+<p>Our music students range from 4 years old to adults. We take care to teach what you want to learn so music is rewarding for students of all ages and levels.</p>
+<p>We offer Piano Lessons from ages 5 to adult, Violin Lessons from age 5 to adult, Voice Lessons from age 7 to adult, Guitar Lessons &amp; Bass Lessons from age 8 to adult, and we offer Songwriting Lessons at age 12.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<table class="pages">
+<tbody>
+<tr>
+<td>
+<h2 class="red">Private Lessons</h2>
+</td>
+<td style="padding-left: 25px;">
+<p>Group classes work well for preschool music programs, and theory lessons. However, when actually learning how to play an instrument, private lessons are far superior to a group lessons since privates give the student the opportunity to learn at their own pace so they don&rsquo;t miss key points. This also means that the teacher does not have to teach a class at a middle-of&ndash;the-road level, but has the time and focus to work on the individual student&rsquo;s strengths and weaknesses. For that lesson period, the student is the primary focus of the teacher. The teachers also enjoy this as they do not have to divide their attention between 5 - 10 students at a time and can help the student be the best they can be.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<table class="pages">
+<tbody>
+<tr>
+<td>
+<h2 class="red">Bi-annual Recitals (optional)</h2>
+</td>
+<td style="padding-left: 25px;">
+<p>Our optional Music Recitals are held at least twice a year. They provide students with performance experience, build confidence and allow students to share their musical achievements with their family and friends.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class="red">Ask any dance or music school in Santa Monica, Culver City, Venice, Mar Vista, Brentwood, Pacific Palisades and the greater West LA area these questions and you will see why more families choose our studio each year than any other. After browsing this site please call us with any questions you may have about getting the most out of your dance experience.</p>
+310-453-7617</div>
 </div>
 
 <hr>
-
+<div class="partner-logos"></div>
 
 </div>
 

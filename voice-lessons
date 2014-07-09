@@ -2,10 +2,10 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
 <html>
 <head>
-<title>Dance Classes &amp; Music Lessons Santa Monica - Dance Studio | West LA - Pacific Palisades - Brentwood</title>
+<title>Santa Monica Voice &amp; Singing Lessons - Pacific Palisades, Brentwood, West LA</title>
 <link href="styles-santamonicaschoolofdanceandmusic.css" rel="stylesheet" media="screen">
-<META NAME="Keywords" CONTENT="dance classes,music lessons,dance studio,santa monica,pacific palisades,brentwood,west la,summer camps">
-<META NAME="Description" CONTENT="Santa Monica School of Dance and Music provides dance classes and music lessons for all ages at the best dance studio serving Santa Monica, Brentwood, Pacific Palisades, and the greater West LA area.">
+<META NAME="Keywords" CONTENT="">
+<META NAME="Description" CONTENT="">
 <META NAME="robots" content="index,follow">
 <META NAME="revisit-after" content="14">
 <META NAME="copyright" content="Santa Monica School of Dance and Music - All Rights Reserved">
@@ -189,21 +189,40 @@ Santa Monica, CA 90404
 <p>Call Us Today to Check Availability & Reserve Your Spot!<br>
 <h4 style="text-align: center; margin: 0; padding: 0; font-size: 25px;">310-453-7617</h4>
 </div>
+<div class="blackbox" style="text-align: center;">
+
+<h4 style="text-align: center; font-size: 22px;">Click by Instrument</h4>
+<br>
+<table class="box">
+<tr>
+<td><a href="/piano-keyboard-lessons"><img src="images/btn-music-piano.jpg" alt="Click Here"></a></td>
+<td><a href="/voice-lessons"><img src="images/btn-music-voice.jpg" alt="Click Here"></a></td>
+</tr>
+<tr>
+<td><a href="/guitar-lessons-acoustic-electric-bass"><img src="images/btn-music-guitar.jpg" alt="Click Here"></a></td>
+<td><a href="/violin-lessons"><img src="images/btn-music-violin.jpg" alt="Click Here"></a></td>
+</tr>
+<!-- <tr>
+<td><a href="/violin-lessons"><img src="images/btn-music-violin.jpg" alt="Click Here"></a></td>
+<td><a href="/drum-lessons"><img src="images/btn-music-drums.jpg" alt="Click Here"></a></td>
+</tr> -->
 
 <!--
-<div class="blackbox" style="text-align: center;">
-<h4 style="text-align: center;">New to the School of Dance and Music?</h4>
-
-
-<p>
-<object width="220" height="181" data="http://www.youtube.com/v/zXWMJTHzEG8&amp;feature" type="application/x-shockwave-flash">
-<param name="src" value="http://www.youtube.com/v/zXWMJTHzEG8&amp;feature" />
-</object>
-</p>
-
-<p class="smaller tight">Click above to watch a short video and learn more about our programs.</p>
-</div>
+<tr>
+<td colspan="2" align="center"><a href="/"><img src="images/btn-music-songwriting.jpg" alt="Click Here"></a></td>
+</tr>
 -->
+
+</table>
+
+<p><span class="lg bold up">PDF of Schedule</span> <a href="http://www.santamonicaschoolofdanceandmusic.com/docs/Schedules/2013-2014FallSchedule.pdf" target="_new">click here</a></p>
+<p><span class="lg bold up">Tuition</span> <a href="/fees-and-policies#anchor">click here</a></p>
+
+<!--
+<p><span class="lg bold up">How to Register</span> <a href="/how-to-register">click here</a></p>
+-->
+
+</div>
 <div class="greenbox">
 <h4>Why Choose Us?</h4>
 <ul>
@@ -264,47 +283,46 @@ $(document).ready(function(){
 </div> -->
 
 <div class="orangebox">
-<h4 style="font-size: 18px;">Brand new to dance classes or music lessons? Find out what you need to know!</h4>
-<p class="lg"><a href="/5-things-you-should-know-when-choosing-a-dance-studio"> - 5 Things Every Parent Should Know Before Choosing a Dance Studio</a></p>
-<p class="lg"><a href="/5-ways-to-get-the-most-out-of-music-lessons#anchor"> - 5 Ways to Get the Most Out of the Music Lessons</a></p>
-</div>
+<h4 style="font-size: 18px;">Starting Lessons Off Right</h4>
+<ol>
+<li>How Young is Too Young. Starting at the Right Age</li>
+<li>Insist on Private Lessons When Learning a Specific Instrument</li>
+<li>Take Lessons in a Professional Teaching Environment</li>
+<li>Make Practicing Easier</li>
+<li>Use Recognized Teaching Materials</li>
+</ol>
+<p><a href="/5-ways-to-get-the-most-out-of-music-lessons#anchor">See more...</a></p>
+</div>  
+<div class="pinkbox">
+<h4 align="left">Common Q&A</h4>
+<p align="left">Q: Do I need a piano at home to take a piano lessons?</p>
+<p align="left">A: It is ideal if you have a piano at home, but you can start lessons by using an electric keyboard to practice on. Most our students rent or buy...</p>
+<p><a href="/music-frequently-asked-questions#anchor">See more...</a></p>
 </div>
 
-<div class="mainleft">
-<h2 style="text-align: center;">Trying to decide between a few different<br />Dance or Music Schools?</h2>
-<p>Santa Monica's first dance studio and music school to offer both dance  classes and music lessons.  Dance classes in ballet, jazz, hip hop and  more are available along with private music lessons in piano, voice,  guitar, violin and bass. Santa Monica School of Dance and Music provides  students with the skills they need to enjoy dance and music for a  lifetime. Come join us!</p>
-<p style="text-align: center;"><span style="font-size: large;"><strong><a href="../docs/Schedules/2013-2014FallSchedule.pdf" target="_blank">Download our 2013-2014 School Year Schedule</a></strong></span></p>
-<p style="text-align: center;"><span style="font-size: large;"><strong><a href="../docs/Schedules/SummerGuide2014forweb.pdf" target="_blank">Download our 2014 Summer Schedule</a></strong></span></p>
-<p>We realize you have a choice between several different dance studios and  music schools on the Westside. We invite you to compare all of the  features and options to see why we believe our school to be the finest  offering for dance and music in Santa Monica, Culver City, Venice, Mar  Vista and the greater West LA area.</p>
+
+<!-- <div class="greenbox">
+<h4 align="center">Music Recital</h4> 
+<p align="center" style="text align: center;"><span class="lg bold">February &amp; June 2014 Music Recital General Info</span><br /><a href="/music-recitals#anchor">click here</a></p>
+</div>
+ -->
+
+</div>
+
+<div class="mainleft" style="min-height: 2450px;">
+<h4>Voice &amp; Singing Lessons</h4>
 <p>&nbsp;</p>
-<table class="index">
-<tbody>
-<tr>
-<td><img src="../images/home1.jpg" alt="" /></td>
-<td><img src="../images/home2.jpg" alt="" /></td>
-<td><img src="../images/home3.jpg" alt="" /></td>
-</tr>
-<tr>
-<td><img src="../images/home4.jpg" alt="" /></td>
-<td><img src="../images/home5.jpg" alt="" /></td>
-<td><img src="../images/home6.jpg" alt="" /></td>
-</tr>
-<tr>
-<td><img src="../images/ages-5-1.jpg" alt="" width="190" height="190" /></td>
-<td><img src="../images/music-10.jpg" alt="" width="190" height="190" /></td>
-<td><img src="../images/tuition-3.jpg" alt="" width="190" height="190" /></td>
-</tr>
-<tr>
-<td><img src="../images/music-5.jpg" alt="" width="190" height="190" /></td>
-<td><img src="../images/ages-1-4.jpg" alt="" width="190" height="190" /></td>
-<td><img src="../images/music-11.jpg" alt="" width="190" height="190" /></td>
-</tr>
-</tbody>
-</table>
+<hr />
+<p>The Santa Monica School of Dance and Music offers voice lessons for students ages 7 years to adult, of all abilities from beginners to very advanced students. Our private voice lessons are one-on-one instruction and lesson lengths are 30 minutes, 45 minutes or 1 hour. We offer instruction in various styles from rock to classical, jazz and pop. We have students who want to learn to sing just for fun and students getting ready for a big event or show!</p>
+<p>7 years old is recommended as the youngest age for private vocal lessons. Due to the physical nature of voice lessons (proper breathing techniques, development of the vocal chords and lung capacity), the younger body is generally not yet ready for the rigors of vocal technique. For children younger than 7, we recommend a children&rsquo;s choir or a preschool singing program that teaches them how to use their voices properly, in a fun, relaxed environment.</p>
+<p><strong>If you'd like your younger musician to start taking Voice lessons as early as 4&frac12; years old, </strong>you can add Piano to your lesson and split your time between both Piano AND Voice.&nbsp; This option is great&nbsp;if you have an interest in both, or are trying to decide between the two for your younger musician.&nbsp; Taking Piano and Voice together provides a basic  foundation of music, such as ear training, while keeping the student  engaged.</p>
+<p><img src="../images/voice-lessons.jpg" alt="Voice Lessons" /></p>
+<p><span style="text-decoration: underline;"><strong>Why should I take voice lessons?</strong></span></p>
+<p>The narrative goes something like this: &ldquo;I can sing. Why should I bother with voice lessons.&rdquo; It&rsquo;s true that some people are born with better singing voices, just like other people are born able to run faster. And just like practice running under the regimen of an experienced coach or trainer helps a runner run faster and longer while avoiding injury, training your voice under the guidance of an experienced teacher helps you sing stronger with a better range, more control, and less risk of straining your vocal cords.We often hear people ask if it&rsquo;s safe for children to take vocal lessons. Of course it is! Vocal coaching helps children develop their natural instrument and avoid damaging it through improper technique. Kids can be great singers, and vocal lessons can help them have more fun with something they probably already enjoy!Like most musical pursuits, learning to sing brings with it a myriad of benefits (eighteen of which can be found here), including increased self-confidence, improved academics, and development of artistic and creative capacities, but unlike other instruments, your voice is always with you! People connect through singing, and song can be used to bring people together, both professionally and socially.</p>
 </div>
 
 <hr>
-
+<div class="partner-logos"></div>
 
 </div>
 

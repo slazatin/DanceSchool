@@ -2,10 +2,10 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
 <html>
 <head>
-<title>Dance Classes &amp; Music Lessons Santa Monica - Dance Studio | West LA - Pacific Palisades - Brentwood</title>
+<title>Santa Monica Piano &amp; Keyboard Lessons - Pacific Palisades, Brentwood, West LA</title>
 <link href="styles-santamonicaschoolofdanceandmusic.css" rel="stylesheet" media="screen">
-<META NAME="Keywords" CONTENT="dance classes,music lessons,dance studio,santa monica,pacific palisades,brentwood,west la,summer camps">
-<META NAME="Description" CONTENT="Santa Monica School of Dance and Music provides dance classes and music lessons for all ages at the best dance studio serving Santa Monica, Brentwood, Pacific Palisades, and the greater West LA area.">
+<META NAME="Keywords" CONTENT="">
+<META NAME="Description" CONTENT="">
 <META NAME="robots" content="index,follow">
 <META NAME="revisit-after" content="14">
 <META NAME="copyright" content="Santa Monica School of Dance and Music - All Rights Reserved">
@@ -190,20 +190,40 @@ Santa Monica, CA 90404
 <h4 style="text-align: center; margin: 0; padding: 0; font-size: 25px;">310-453-7617</h4>
 </div>
 
-<!--
 <div class="blackbox" style="text-align: center;">
-<h4 style="text-align: center;">New to the School of Dance and Music?</h4>
 
+<h4 style="text-align: center; font-size: 22px;">Click by Instrument</h4>
+<br>
+<table class="box">
+<tr>
+<td><a href="/piano-keyboard-lessons"><img src="images/btn-music-piano.jpg" alt="Click Here"></a></td>
+<td><a href="/voice-lessons"><img src="images/btn-music-voice.jpg" alt="Click Here"></a></td>
+</tr>
+<tr>
+<td><a href="/guitar-lessons-acoustic-electric-bass"><img src="images/btn-music-guitar.jpg" alt="Click Here"></a></td>
+<td><a href="/violin-lessons"><img src="images/btn-music-violin.jpg" alt="Click Here"></a></td></a></td>
+</tr>
+<!-- <tr>
+<td><a href="/violin-lessons"><img src="images/btn-music-violin.jpg" alt="Click Here"></a></td>
+<td><a href="/drum-lessons"><img src="images/btn-music-drums.jpg" alt="Click Here"></a></td>
+</tr> -->
 
-<p>
-<object width="220" height="181" data="http://www.youtube.com/v/zXWMJTHzEG8&amp;feature" type="application/x-shockwave-flash">
-<param name="src" value="http://www.youtube.com/v/zXWMJTHzEG8&amp;feature" />
-</object>
-</p>
-
-<p class="smaller tight">Click above to watch a short video and learn more about our programs.</p>
-</div>
+<!--
+<tr>
+<td colspan="2" align="center"><a href="/"><img src="images/btn-music-songwriting.jpg" alt="Click Here"></a></td>
+</tr>
 -->
+
+</table>
+
+<p><span class="lg bold up">PDF of Schedule</span> <a href="http://www.santamonicaschoolofdanceandmusic.com/docs/Schedules/2013-2014FallSchedule.pdf" target="_new">click here</a></p>
+<p><span class="lg bold up">Tuition</span> <a href="/fees-and-policies#anchor">click here</a></p>
+
+<!--
+<p><span class="lg bold up">How to Register</span> <a href="/how-to-register">click here</a></p>
+-->
+
+</div>
 <div class="greenbox">
 <h4>Why Choose Us?</h4>
 <ul>
@@ -218,8 +238,8 @@ Santa Monica, CA 90404
 <p><a href="/why-choose-us#anchor">See more...</a></p>
 </div>
 
-
-<!-- <div class="pinkbox">
+<!-- 
+<div class="pinkbox">
 <h4>Testimonials</h4>
 <div class="testimonials2">
 
@@ -264,47 +284,44 @@ $(document).ready(function(){
 </div> -->
 
 <div class="orangebox">
-<h4 style="font-size: 18px;">Brand new to dance classes or music lessons? Find out what you need to know!</h4>
-<p class="lg"><a href="/5-things-you-should-know-when-choosing-a-dance-studio"> - 5 Things Every Parent Should Know Before Choosing a Dance Studio</a></p>
-<p class="lg"><a href="/5-ways-to-get-the-most-out-of-music-lessons#anchor"> - 5 Ways to Get the Most Out of the Music Lessons</a></p>
-</div>
+<h4 style="font-size: 18px;">Starting Lessons Off Right</h4>
+<ol>
+<li>How Young is Too Young. Starting at the Right Age</li>
+<li>Insist on Private Lessons When Learning a Specific Instrument</li>
+<li>Take Lessons in a Professional Teaching Environment</li>
+<li>Make Practicing Easier</li>
+<li>Use Recognized Teaching Materials</li>
+</ol>
+<p><a href="/5-ways-to-get-the-most-out-of-music-lessons#anchor">See more...</a></p>
+</div>  
+<div class="pinkbox">
+<h4 align="left">Common Q&A</h4>
+<p align="left">Q: Do I need a piano at home to take a piano lessons?</p>
+<p align="left">A: It is ideal if you have a piano at home, but you can start lessons by using an electric keyboard to practice on. Most our students rent or buy...</p>
+<p><a href="/music-frequently-asked-questions#anchor">See more...</a></p>
 </div>
 
-<div class="mainleft">
-<h2 style="text-align: center;">Trying to decide between a few different<br />Dance or Music Schools?</h2>
-<p>Santa Monica's first dance studio and music school to offer both dance  classes and music lessons.  Dance classes in ballet, jazz, hip hop and  more are available along with private music lessons in piano, voice,  guitar, violin and bass. Santa Monica School of Dance and Music provides  students with the skills they need to enjoy dance and music for a  lifetime. Come join us!</p>
-<p style="text-align: center;"><span style="font-size: large;"><strong><a href="../docs/Schedules/2013-2014FallSchedule.pdf" target="_blank">Download our 2013-2014 School Year Schedule</a></strong></span></p>
-<p style="text-align: center;"><span style="font-size: large;"><strong><a href="../docs/Schedules/SummerGuide2014forweb.pdf" target="_blank">Download our 2014 Summer Schedule</a></strong></span></p>
-<p>We realize you have a choice between several different dance studios and  music schools on the Westside. We invite you to compare all of the  features and options to see why we believe our school to be the finest  offering for dance and music in Santa Monica, Culver City, Venice, Mar  Vista and the greater West LA area.</p>
+
+<!-- <div class="greenbox">
+<h4 align="center">Music Recital</h4> 
+<p align="center" style="text align: center;"><span class="lg bold">February &amp; June 2014 Music Recital General Info</span><br /><a href="/music-recitals#anchor">click here</a></p>
+</div> -->
+
+
+</div>
+
+<div class="mainleft" style="min-height: 2450px;">
+<h4>Piano &amp; Keyboard Lessons</h4>
+<hr />
+<p>The Santa Monica School of Dance and Music offers piano lessons for students ages 4&frac12; years to adult, of all abilities from beginners to very advanced students. Our private piano lessons are one-on-one instruction and lesson lengths are 30 minutes, 45 minutes or 1 hour. We offer instruction in various styles from classical and jazz to pop. We have students who want to play just for fun and students who are practicing for a specific event or live performance.</p>
+<p>At our school, 4&frac12; years old is the youngest age that we start children in private piano lessons. At this age they start to develop longer attention spans, have better physical hand abilities, and can retain material with ease. &nbsp;</p>
+<p><strong>You can also split your lesson time between both Piano AND Voice </strong>if you have an interest in both, or are trying to decide between the two.&nbsp; This option is great for musicians as young as 4&frac12; years old because it provides a basic foundation of music, such as ear training, while keeping the student engaged.&nbsp;</p>
 <p>&nbsp;</p>
-<table class="index">
-<tbody>
-<tr>
-<td><img src="../images/home1.jpg" alt="" /></td>
-<td><img src="../images/home2.jpg" alt="" /></td>
-<td><img src="../images/home3.jpg" alt="" /></td>
-</tr>
-<tr>
-<td><img src="../images/home4.jpg" alt="" /></td>
-<td><img src="../images/home5.jpg" alt="" /></td>
-<td><img src="../images/home6.jpg" alt="" /></td>
-</tr>
-<tr>
-<td><img src="../images/ages-5-1.jpg" alt="" width="190" height="190" /></td>
-<td><img src="../images/music-10.jpg" alt="" width="190" height="190" /></td>
-<td><img src="../images/tuition-3.jpg" alt="" width="190" height="190" /></td>
-</tr>
-<tr>
-<td><img src="../images/music-5.jpg" alt="" width="190" height="190" /></td>
-<td><img src="../images/ages-1-4.jpg" alt="" width="190" height="190" /></td>
-<td><img src="../images/music-11.jpg" alt="" width="190" height="190" /></td>
-</tr>
-</tbody>
-</table>
+<p><img src="../images/piano-lessons.jpg" alt="Piano Lessons" /><br /><br /><span style="text-decoration: underline;"><strong>Why play piano?</strong></span><br /><br />From classical to jazz, pianos can be found almost anywhere. Learning piano is also one of the best musical foundations you can have; most professional musicians have some background in piano. For anyone interested in composing, songwriting, or music theory, piano is nearly essential. John Williams, composer for classic films like Star Wars, Indiana Jones, and E.T. began his career as a pianist. But even if you don&rsquo;t care about playing professionally, piano is a great way to learn to read music, train your ear, and have fun playing your favorite songs!<br /><br />Piano is unique, in part, for the way it fully engages all parts of the mind and body. Although it&rsquo;s easy for young children and other beginners to learn how to play simple melodies, advanced pianists are capable of some <a href="http://www.youtube.com/watch?v=O_9lpjov4kk" target="_blank">truly awe-inspiring performances</a>. Pianists are required to read more music than most other instrumentalists (both bass and treble clef, often simultaneously), play independently with both hands, and make use of both feet. This means that not only does learning piano promote coordination and musicality, but it fully engages the brain. An MIT study revealed that the cerebral cortex, a portion of the brain which is important in memory, attention, perceptual awareness, thought, language, and consciousness, was significantly more developed in subjects who had studied piano as opposed to similar subjects who had no musical training.&nbsp;<br /><br />For both kids and adults, learning to play the piano can be an incredibly rewarding experience, whether your goal is to become a concert pianist or just to play songs at family gatherings for the holidays.&nbsp;<br /><br /><span style="text-decoration: underline;"><strong>Isn&rsquo;t four kind of young to start?</strong></span><br /><br />Not at all! Kids as young as four can certainly begin learning how to read music and play with proper technique. Kids need encouragement, but learning the piano can be a great way for a child to learn patience and discipline while still seeing plenty of results to stay excited about learning.</p>
 </div>
 
 <hr>
-
+<div class="partner-logos"></div>
 
 </div>
 
