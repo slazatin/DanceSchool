@@ -78,9 +78,9 @@ window._fbq.push(['track', '6018797429431', {'value':'0.00','currency':'USD'}]);
 <tr><td style="text-align: left; padding-left: 20px;">
 
 <a href="/facilities" class="facilities">
-(310) 453-7617<br>
-2923 Santa Monica Blvd.<br>
-Santa Monica, CA 90404
+(818) 280-9039<br>
+4454 Van Nuys Blvd. Suite G<br>
+Sherman Oaks, CA 91403
 </a>
 
 </td>
@@ -103,8 +103,6 @@ Santa Monica, CA 90404
 <span>Voice</span>
 <span>Violin</span>
 <span>Guitar</span>
-<span>Bass</span>
-<span>Songwriting</span>
 </p>
 </div>
 
@@ -117,7 +115,13 @@ Santa Monica, CA 90404
 
 <ul class="nav">
 
-<li><a href="index.html">Home</a></li>
+<li><a href="index.html">Home</a>
+<ul>
+  <li><a href="newsletters">Newsletters</a></li> 
+  <li><a href="calendar">Calendar</a></li> 
+  <li><a href="why-us">Why Choose Us</a></li>
+</ul>
+</li>
 
 <li><a>Dance Classes</a>
 <ul>
@@ -132,39 +136,31 @@ Santa Monica, CA 90404
 <li><a href="teen-adult-dance-classes">Ages Teen - Adult</a></li>
 <li><a href="dance-recitals">Dance Recital Information</a></li> 
 <!-- <li><a href="testimonials">Testimonials</a></li> -->
-<li><a href="facilities">Facilities</a></li>
+<li><a href="required-dance-wear">Dance Wear Information</a></li>
 </ul>
 </li>
 
 
 <li><a>Music Lessons</a>
 <ul>
-<li><a href="/music-lessons-all-ages-all-levels">Music Lessons Home</a>
-<li><a href="/piano-keyboard-lessons">Piano &amp; Keyboard Lessons</a></li>
-<li><a href="/voice-lessons">Voice &amp; Singing Lessons</a></li>
-<li><a href="/guitar-lessons-acoustic-electric-bass">Guitar &amp; Bass Lessons</a></li>
-<li><a href="/violin-lessons">Violin Lessons</a></li>
-<li><a href="/music-recitals">Music Recitals</a></li> 
+<li><a href="music-lessons-all-ages-all-levels">Music Lessons Home</a></li>
+<li><a href="piano-keyboard-lessons">Piano &amp; Keyboard Lessons</a></li>
+<li><a href="voice-lessons">Voice &amp; Singing Lessons</a></li>
+<li><a href="guitar-lessons-acoustic-electric-bass">Guitar Lessons</a></li>
+<li><a href="violin-lessons">Violin Lessons</a></li>
+<li><a href="music-recitals">Music Recital Information</a></li> 
 <!-- <li><a href="/testimonials">Testimonials</a></li> -->
-<li><a href="/facilities">Facilities</a></li>
 </ul>
 </li>
 
-<li><a>Current Students</a>
-<ul>
-<li><a href="/newsletters">Newsletters</a></li> 
-<li><a href="/calendar">Calendar</a></li> 
-<li><a href="/dance-recitals">Dance Recital Information</a></li> 
-<li><a href="/music-recitals">Music Recital Information</a></li> 
-<li><a href="/dance-company">Dance Company</a></li> 
-</ul>
-</li>
 
-<li style="text-align: center;"><a>Summer Classes</a>
+<li><a>Summer Classes</a>
 <ul> 
-<li><a href="/summer-camp">Summer Camp & Classes</a></li>
+<li><a href="summer-camp">Summer Camp & Classes</a></li>
 </ul>
 </li>
+
+<li><a href="facilities">Contact Us</a></li>
 
 </ul>
 
@@ -187,7 +183,7 @@ Santa Monica, CA 90404
 <div class="blackbox" style="text-align: center;">
 <p style="text-align: center;"><img src="images/register.png" alt="Register Now" style="max-height: 130px;"></p>
 <p>Call Us Today to Check Availability & Reserve Your Spot!<br>
-<h4 style="text-align: center; margin: 0; padding: 0; font-size: 25px;">310-453-7617</h4>
+<h4 style="text-align: center; margin: 0; padding: 0; font-size: 25px;">818-280-9039</h4>
 </div>
 
 <!--
@@ -204,7 +200,7 @@ Santa Monica, CA 90404
 <p class="smaller tight">Click above to watch a short video and learn more about our programs.</p>
 </div>
 -->
-<div class="greenbox">
+<!-- <div class="greenbox">
 <h4>Why Choose Us?</h4>
 <ul>
 <li>Professional 'Floating Marley Dance Floors' reduce fatigue and prevent injury</li>
@@ -216,7 +212,7 @@ Santa Monica, CA 90404
 <li>Optional, low pressure recitals</li>
 </ul>
 <p><a href="/why-choose-us#anchor">See more...</a></p>
-</div>
+</div> -->
 
 
 <!-- <div class="pinkbox">
@@ -262,12 +258,12 @@ $(document).ready(function(){
 
 </div>
 </div> -->
-
+<!-- 
 <div class="orangebox">
 <h4 style="font-size: 18px;">Brand new to dance classes or music lessons? Find out what you need to know!</h4>
 <p class="lg"><a href="/5-things-you-should-know-when-choosing-a-dance-studio"> - 5 Things Every Parent Should Know Before Choosing a Dance Studio</a></p>
 <p class="lg"><a href="/5-ways-to-get-the-most-out-of-music-lessons#anchor"> - 5 Ways to Get the Most Out of the Music Lessons</a></p>
-</div>
+</div> -->
 </div>
 
 <div class="mainleft">
@@ -286,91 +282,14 @@ $(document).ready(function(){
 </div>
 </div>
 
-<div class="footer">
-
-<table>
-<tr>
-<td>
-
-<h2><a href="/">HOME</a></h2><br>
-
-<h2><a href="/dance-classes-all-ages-all-levels">Dance Classes, Dance Studios<br>Santa Monica, West LA, Pacific Palisades</a></h2>
-<p>
-<a href="/5-things-you-should-know-when-choosing-a-dance-studio">Why Choose Us</a>
-<a href="http://schoolofdanceandmusic.com/docs/Schedules/2013-2014FallSchedule.pdf" target="_new">Schedule</a>
-<a href="/tuition">Tuition</a>
-<a href="/1-2-yr-old-mommy-me-classes">Ages 2 1/2 - 3 yrs. (Mommy &amp; Me)</a>
-<a href="/2-3-yr-old-dance-classes">Ages 2 1/2 - 3 1/2 yrs.</a>
-<a href="/3-4-yr-old-dance-classes">Ages 3 - 4 1/2 yrs.</a>
-<a href="/4-5-yr-old-dance-classes">Ages 4 - 5 1/2 yrs.</a>
-<a href="/5-6-yr-old-dance-classes">Ages 5 - 6 1/2 yrs.</a>
-<a href="/6-9-yr-old-dance-classes">Ages 6 - 9 1/2 yrs.</a>
-<a href="/9-12-yr-old-dance-classes">Ages 9 - 12 yrs.</a>
-<a href="/teen-adult-dance-classes">Ages Teen - Adult</a>
-<a href="/dance-recitals"><span class="active">Dance Recital Information</span></a>
-<a href="/dance-company">Dance Company</a>
-<a href="/testimonials">Testimonials</a>
-
-
-</p>
-
-</td>
-<td>
-
-<h2><a href="/music-lessons-all-ages-all-levels">Music Lessons, Music Teachers<br>Santa Monica, West LA, Pacific Palisades</a></h2>
-<p>
-
-<a class="first" href="/5-ways-to-get-the-most-out-of-music-lessons">Starting Lessons Right</a>
-<a href="http://schoolofdanceandmusic.com/docs/Schedules/2013-2014FallSchedule.pdf" target="_new">Schedule</a>
-<a href="/tuition">Tuition</a>
-<a href="/music-frequently-asked-questions">Common Q &amp; A</a>
-<a href="/piano-keyboard-lessons">Piano &amp; Keyboard Lessons</a>
-<a href="/voice-lessons">Voice &amp; Singing Lessons</a>
-<a href="/guitar-lessons-acoustic-electric-bass">Guitar &amp; Bass Lessons</a>
-<a href="/violin-lessons">Violin Lessons</a>
-<a href="/music-recitals">Music Recital Information</a>
-<a href="/testimonials">Testimonials</a>
-
-
-</p>
-
-</td>
-<td>
-
-<h2><a href="/current-student-information">Current Students</a></h2>
-<p>
-<a href="/newsletters">Newsletters</a> 
-<a href="/calendar">Calendar</a> 
-<a href="/required-dance-wear">Required Dance Wear   </a> 
-<a href="/dance-recitals">Dance Recital Information</a> 
-<a href="/music-recitals">Music Recital Information</a> 
-<a href="/dance-company">Dance Company</a> 
-
-</p>
-
-</td>
-<td>
-
-<h2><a href="/summer-camp">Summer Camp & Classes<br>Santa Monica, West LA, Pacific Palisades</a></h2><br>
-<h2><a href="/testimonials">Testimonials</a></h2><br>
-<h2><a href="/why-choose-us">Studio Comparison List</a></h2><br>
-<h2><a href="/facilities">Facilities</a></h2>
-
-</td>
-</tr>
-</table>
-
-
-</div>
-
 <div class="bottom">
 
 
 
-<p>Santa Monica School of Dance & Music provides dance classes and music lessons to the greater West LA area for all ages in a professional and friendly environment.</p>
+<p><b>Sherman Oaks School of Dance & Music provides dance classes and music lessons to the greater San Fernando Valley area </br> for all ages in a professional and friendly environment.</b></p>
 <p>   
-<span class="fleft">&copy;  2014 Santa Monica School of Dance and Music.</span>
-<span class="fright"><a href="/fees-and-policies">Privacy Policy</a> <a href="#top">Back to Top</a></span>
+<span class="fleft">&copy;  2014 Sherman Oaks School of Dance and Music.</span>
+<span class="fright"> <a href="#top">Back to Top</a></span>
 </p>
 </div>
 

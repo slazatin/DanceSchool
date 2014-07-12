@@ -2,7 +2,7 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
 <html>
 <head>
-<title>Santa Monica Guitar &amp; Bass Lessons - Pacific Palisades, Brentwood, West LA</title>
+<title>Sherman Oaks Guitar Lessons</title>
 <link href="styles-santamonicaschoolofdanceandmusic.css" rel="stylesheet" media="screen">
 <META NAME="Keywords" CONTENT="">
 <META NAME="Description" CONTENT="">
@@ -78,9 +78,9 @@ window._fbq.push(['track', '6018797429431', {'value':'0.00','currency':'USD'}]);
 <tr><td style="text-align: left; padding-left: 20px;">
 
 <a href="/facilities" class="facilities">
-(310) 453-7617<br>
-2923 Santa Monica Blvd.<br>
-Santa Monica, CA 90404
+(818) 280-9039<br>
+4454 Van Nuys Blvd. Suite G<br>
+Sherman Oaks, CA 91403
 </a>
 
 </td>
@@ -103,8 +103,6 @@ Santa Monica, CA 90404
 <span>Voice</span>
 <span>Violin</span>
 <span>Guitar</span>
-<span>Bass</span>
-<span>Songwriting</span>
 </p>
 </div>
 
@@ -117,7 +115,13 @@ Santa Monica, CA 90404
 
 <ul class="nav">
 
-<li><a href="index.html">Home</a></li>
+<li><a href="index.html">Home</a>
+<ul>
+  <li><a href="newsletters">Newsletters</a></li> 
+  <li><a href="calendar">Calendar</a></li> 
+  <li><a href="why-us">Why Choose Us</a></li>
+</ul>
+</li>
 
 <li><a>Dance Classes</a>
 <ul>
@@ -132,39 +136,31 @@ Santa Monica, CA 90404
 <li><a href="teen-adult-dance-classes">Ages Teen - Adult</a></li>
 <li><a href="dance-recitals">Dance Recital Information</a></li> 
 <!-- <li><a href="testimonials">Testimonials</a></li> -->
-<li><a href="facilities">Facilities</a></li>
+<li><a href="required-dance-wear">Dance Wear Information</a></li>
 </ul>
 </li>
 
 
 <li><a>Music Lessons</a>
 <ul>
-<li><a href="music-lessons-all-ages-all-levels">Music Lessons Home</a>
+<li><a href="music-lessons-all-ages-all-levels">Music Lessons Home</a></li>
 <li><a href="piano-keyboard-lessons">Piano &amp; Keyboard Lessons</a></li>
 <li><a href="voice-lessons">Voice &amp; Singing Lessons</a></li>
-<li><a href="guitar-lessons-acoustic-electric-bass">Guitar &amp; Bass Lessons</a></li>
+<li><a href="guitar-lessons-acoustic-electric-bass">Guitar Lessons</a></li>
 <li><a href="violin-lessons">Violin Lessons</a></li>
-<li><a href="music-recitals">Music Recitals</a></li> 
-<!-- <li><a href="/testimonials">Testimonials</a></li> -->
-<li><a href="facilities">Facilities</a></li>
-</ul>
-</li>
-
-<li><a>Current Students</a>
-<ul>
-<li><a href="newsletters">Newsletters</a></li> 
-<li><a href="calendar">Calendar</a></li> 
-<li><a href="dance-recitals">Dance Recital Information</a></li> 
 <li><a href="music-recitals">Music Recital Information</a></li> 
-<li><a href="dance-company">Dance Company</a></li> 
+<!-- <li><a href="/testimonials">Testimonials</a></li> -->
 </ul>
 </li>
 
-<li style="text-align: center;"><a>Summer Classes</a>
+
+<li><a>Summer Classes</a>
 <ul> 
-<li><a href="/summer-camp">Summer Camp & Classes</a></li>
+<li><a href="summer-camp">Summer Camp & Classes</a></li>
 </ul>
 </li>
+
+<li><a href="facilities">Contact Us</a></li>
 
 </ul>
 
@@ -187,9 +183,9 @@ Santa Monica, CA 90404
 <div class="blackbox" style="text-align: center;">
 <p style="text-align: center;"><img src="images/register.png" alt="Register Now" style="max-height: 130px;"></p>
 <p>Call Us Today to Check Availability & Reserve Your Spot!<br>
-<h4 style="text-align: center; margin: 0; padding: 0; font-size: 25px;">310-453-7617</h4>
+<h4 style="text-align: center; margin: 0; padding: 0; font-size: 25px;">818-280-9039</h4>
 </div>
-<div class="blackbox" style="text-align: center;">
+<!-- <div class="blackbox" style="text-align: center;">
 
 <h4 style="text-align: center; font-size: 22px;">Click by Instrument</h4>
 <br>
@@ -201,7 +197,7 @@ Santa Monica, CA 90404
 <tr>
 <td><a href="/guitar-lessons-acoustic-electric-bass"><img src="images/btn-music-guitar.jpg" alt="Click Here"></a></td>
 <td><a href="/violin-lessons"><img src="images/btn-music-violin.jpg" alt="Click Here"></a></td>
-</tr>
+</tr> -->
 <!-- <tr>
 <td><a href="/violin-lessons"><img src="images/btn-music-violin.jpg" alt="Click Here"></a></td>
 <td><a href="/drum-lessons"><img src="images/btn-music-drums.jpg" alt="Click Here"></a></td>
@@ -213,16 +209,16 @@ Santa Monica, CA 90404
 </tr>
 -->
 
-</table>
+<!-- </table>
 
 <p><span class="lg bold up">PDF of Schedule</span> <a href="http://www.santamonicaschoolofdanceandmusic.com/docs/Schedules/2013-2014FallSchedule.pdf" target="_new">click here</a></p>
-<p><span class="lg bold up">Tuition</span> <a href="/fees-and-policies#anchor">click here</a></p>
+<p><span class="lg bold up">Tuition</span> <a href="/fees-and-policies#anchor">click here</a></p> -->
 
 <!--
 <p><span class="lg bold up">How to Register</span> <a href="/how-to-register">click here</a></p>
 -->
 
-</div>
+<!-- </div>
 <div class="greenbox">
 <h4>Why Choose Us?</h4>
 <ul>
@@ -235,7 +231,7 @@ Santa Monica, CA 90404
 <li>Optional, low pressure recitals</li>
 </ul>
 <p><a href="/why-choose-us#anchor">See more...</a></p>
-</div>
+</div> -->
 
 
 <!-- <div class="pinkbox">
@@ -282,7 +278,7 @@ $(document).ready(function(){
 </div>
 </div>
  -->
-<div class="orangebox">
+<!-- <div class="orangebox">
 <h4 style="font-size: 18px;">Starting Lessons Off Right</h4>
 <ol>
 <li>How Young is Too Young. Starting at the Right Age</li>
@@ -299,7 +295,7 @@ $(document).ready(function(){
 <p align="left">A: It is ideal if you have a piano at home, but you can start lessons by using an electric keyboard to practice on. Most our students rent or buy...</p>
 <p><a href="/music-frequently-asked-questions#anchor">See more...</a></p>
 </div>
-
+ -->
 
 <!-- <div class="greenbox">
 <h4 align="center">Music Recital</h4> 
@@ -310,13 +306,13 @@ $(document).ready(function(){
 </div>
 
 <div class="mainleft" style="min-height: 2450px;">
-<h4>Guitar &amp; Bass Lessons</h4>
+<h4>Guitar Lessons</h4>
 <p>&nbsp;</p>
 <hr />
-<p>The Santa Monica School of Dance and Music offers guitar lessons for students ages 8 years to adult, of all abilities from beginners to very advanced students. 8 years old is the earliest we recommend for guitar lessons.  Guitar playing requires a fair amount of pressure on the fingertips  from pressing on the strings. Children under 8 generally have small  hands and may find playing uncomfortable.<strong>&nbsp; Therefore for 4&frac12; - 7 year olds, we offer&nbsp;Guitar Jr.</strong> to get a head start on  learning using a smaller guitar. Guitar Jr. is made to introduce the  children to beginning theory, playing simple rhythms and songs with a  single string and with easy chords.</p>
+<p>The Sherman Oaks School of Dance and Music offers guitar lessons for students ages 8 years to adult, of all abilities from beginners to very advanced students. 8 years old is the earliest we recommend for guitar lessons.  Guitar playing requires a fair amount of pressure on the fingertips  from pressing on the strings. Children under 8 generally have small  hands and may find playing uncomfortable.<strong>&nbsp; Therefore for 4&frac12; - 7 year olds, we offer&nbsp;Guitar Jr.</strong> to get a head start on  learning using a smaller guitar. Guitar Jr. is made to introduce the  children to beginning theory, playing simple rhythms and songs with a  single string and with easy chords.</p>
 <p>Our private guitar lessons are one-on-one instruction and lesson lengths are 30 minutes, 45 minutes or 1 hour. We offer instruction in various styles from rock to classical, jazz and pop. We have students who want to play just for fun and students who are getting ready for a show or event!</p>
-<p>Bass guitar students are generally at least 10 years old.</p>
-<p><img src="../images/guitar.jpg" alt="Guitar Lessons" /><br /><br /><span style="text-decoration: underline;"><strong>Why learn guitar?</strong></span><br /><br />Guitars are nearly ubiquitous in modern music, showing up in jazz, rock, pop, country, and other styles of music. As such, they are very versatile instruments. <br /><br />Countless studies sing the developmental praises of learning a musical instrument, with benefits (eighteen of which can be found <a href="http://www.effectivemusicteaching.com/articles/directors/18-benefits-of-playing-a-musical-instrument/" target="_blank">here</a>) as wide ranging as better memory and improved math skills. Learning guitar, in particular, can teach students chord progression and other fundamentals of musical theory alongside musical benefits that come from studying other instruments. It&rsquo;s easy to begin playing the guitar, but there are always new techniques for advanced students to master.&nbsp;<br /><br /><br /><span style="text-decoration: underline;"><strong>Acoustic, Electric, Bass &ndash; How do I choose?</strong></span><br /><br />A lot of it depends on what kind of music you or your child wants to play and what your (child&rsquo;s) musical experience is. An acoustic guitar is typically made of wood, and doesn&rsquo;t require an amplifier or other electronic components. It&rsquo;s probably what you think of when you first think &ldquo;guitar.&rdquo; If you&rsquo;re just starting out, learning acoustic guitar is a great foundation. From <a href="http://www.youtube.com/watch?v=yQxShN6BC8A" target="_blank">flamenco music</a> and <a href="http://www.youtube.com/watch?v=H3iSiij98VY" target="_blank">lyric guitar songs</a>, to <a href="http://www.youtube.com/watch?v=hOgwwZyyz2Q" target="_blank">folk music</a> and <a href="http://www.youtube.com/watch?v=BcL---4xQYA" target="_blank">rock solos</a>, it&rsquo;s all played on the acoustic guitar.<br /><br />But maybe you&rsquo;re ready to plug in and rock out with your band. Maybe electric guitar lessons are for you. Electric guitars can be heard just about everywhere you turn. They&rsquo;re a staple of <a href="http://www.youtube.com/watch?v=lvz0J0WBZPE" target="_blank">rock and pop</a> music, but in the right hands are <a href="http://www.youtube.com/watch?v=MZuSaudKc68" target="_blank">no less versatile than their acoustic brethren</a>.&nbsp;<br /><br />But what is a bass? A bass is the guitar&rsquo;s deeper-ranged cousin, an essential piece of any rock band or jazz group. It (usually) only has four or five strings (compared to six on the guitar), but is larger overall. Basses are incredibly versatile instruments that can go from providing <a href="http://www.youtube.com/watch?v=nzi7y2NoINY" target="_blank">the heart and groove</a> in a group setting to <a href="http://www.youtube.com/watch?v=pEyEu-hS0fA" target="_blank">headlining a solo show</a>.<br /><br />Of course, like most things choosing which instrument to play (or what class to take) ultimately comes down to what gets the student excited. Does your child want to try out the bass? Go for it! Prefer rhythm guitar? That&rsquo;s great too!</p>
+
+<p><img src="../images/guitar.jpg" alt="Guitar Lessons" /><br /><br /><span style="text-decoration: underline;"><strong>Why learn guitar?</strong></span><br /><br />Guitars are nearly ubiquitous in modern music, showing up in jazz, rock, pop, country, and other styles of music. As such, they are very versatile instruments. <br /><br />Countless studies sing the developmental praises of learning a musical instrument, with benefits (eighteen of which can be found <a href="http://www.effectivemusicteaching.com/articles/directors/18-benefits-of-playing-a-musical-instrument/" target="_blank">here</a>) as wide ranging as better memory and improved math skills. Learning guitar, in particular, can teach students chord progression and other fundamentals of musical theory alongside musical benefits that come from studying other instruments. It&rsquo;s easy to begin playing the guitar, but there are always new techniques for advanced students to master.&nbsp;<br /><br /><br /><span style="text-decoration: underline;">
 </div>
 
 <hr>
@@ -327,91 +323,14 @@ $(document).ready(function(){
 </div>
 </div>
 
-<div class="footer">
-
-<table>
-<tr>
-<td>
-
-<h2><a href="/">HOME</a></h2><br>
-
-<h2><a href="/dance-classes-all-ages-all-levels">Dance Classes, Dance Studios<br>Santa Monica, West LA, Pacific Palisades</a></h2>
-<p>
-<a href="/5-things-you-should-know-when-choosing-a-dance-studio">Why Choose Us</a>
-<a href="http://schoolofdanceandmusic.com/docs/Schedules/2013-2014FallSchedule.pdf" target="_new">Schedule</a>
-<a href="/tuition">Tuition</a>
-<a href="/1-2-yr-old-mommy-me-classes">Ages 2 1/2 - 3 yrs. (Mommy &amp; Me)</a>
-<a href="/2-3-yr-old-dance-classes">Ages 2 1/2 - 3 1/2 yrs.</a>
-<a href="/3-4-yr-old-dance-classes">Ages 3 - 4 1/2 yrs.</a>
-<a href="/4-5-yr-old-dance-classes">Ages 4 - 5 1/2 yrs.</a>
-<a href="/5-6-yr-old-dance-classes">Ages 5 - 6 1/2 yrs.</a>
-<a href="/6-9-yr-old-dance-classes">Ages 6 - 9 1/2 yrs.</a>
-<a href="/9-12-yr-old-dance-classes">Ages 9 - 12 yrs.</a>
-<a href="/teen-adult-dance-classes">Ages Teen - Adult</a>
-<a href="/dance-recitals">Dance Recital Information</a>
-<a href="/dance-company">Dance Company</a>
-<a href="/testimonials">Testimonials</a>
-
-
-</p>
-
-</td>
-<td>
-
-<h2><a href="/music-lessons-all-ages-all-levels">Music Lessons, Music Teachers<br>Santa Monica, West LA, Pacific Palisades</a></h2>
-<p>
-
-<a class="first" href="/5-ways-to-get-the-most-out-of-music-lessons">Starting Lessons Right</a>
-<a href="http://schoolofdanceandmusic.com/docs/Schedules/2013-2014FallSchedule.pdf" target="_new">Schedule</a>
-<a href="/tuition">Tuition</a>
-<a href="/music-frequently-asked-questions">Common Q &amp; A</a>
-<a href="/piano-keyboard-lessons">Piano &amp; Keyboard Lessons</a>
-<a href="/voice-lessons">Voice &amp; Singing Lessons</a>
-<a href="/guitar-lessons-acoustic-electric-bass">Guitar &amp; Bass Lessons</a>
-<a href="/violin-lessons">Violin Lessons</a>
-<a href="/music-recitals">Music Recital Information</a>
-<a href="/testimonials">Testimonials</a>
-
-
-</p>
-
-</td>
-<td>
-
-<h2><a href="/current-student-information">Current Students</a></h2>
-<p>
-<a href="/newsletters">Newsletters</a> 
-<a href="/calendar">Calendar</a> 
-<a href="/required-dance-wear">Required Dance Wear   </a> 
-<a href="/dance-recitals">Dance Recital Information</a> 
-<a href="/music-recitals">Music Recital Information</a> 
-<a href="/dance-company">Dance Company</a> 
-
-</p>
-
-</td>
-<td>
-
-<h2><a href="/summer-camp">Summer Camp & Classes<br>Santa Monica, West LA, Pacific Palisades</a></h2><br>
-<h2><a href="/testimonials">Testimonials</a></h2><br>
-<h2><a href="/why-choose-us">Studio Comparison List</a></h2><br>
-<h2><a href="/facilities">Facilities</a></h2>
-
-</td>
-</tr>
-</table>
-
-
-</div>
-
 <div class="bottom">
 
 
 
-<p>Santa Monica School of Dance & Music provides dance classes and music lessons to the greater West LA area for all ages in a professional and friendly environment.</p>
+<p><b>Sherman Oaks School of Dance & Music provides dance classes and music lessons to the greater San Fernando Valley area </br> for all ages in a professional and friendly environment.</b></p>
 <p>   
-<span class="fleft">&copy;  2014 Santa Monica School of Dance and Music.</span>
-<span class="fright"><a href="/fees-and-policies">Privacy Policy</a> <a href="#top">Back to Top</a></span>
+<span class="fleft">&copy;  2014 Sherman Oaks School of Dance and Music.</span>
+<span class="fright"> <a href="#top">Back to Top</a></span>
 </p>
 </div>
 

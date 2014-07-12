@@ -2,10 +2,10 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
 <html>
 <head>
-<title>Dance Classes &amp; Music Lessons Sherman Oaks - Dance Studio | Encino - Studio City - S.F. Valley</title>
+<title>School Newsletter - Sherman Oaks Dance &amp; Music</title>
 <link href="styles-santamonicaschoolofdanceandmusic.css" rel="stylesheet" media="screen">
-<META NAME="Keywords" CONTENT="dance classes,music lessons,dance studio,santa monica,pacific palisades,brentwood,west la,summer camps">
-<META NAME="Description" CONTENT="Santa Monica School of Dance and Music provides dance classes and music lessons for all ages at the best dance studio serving Santa Monica, Brentwood, Pacific Palisades, and the greater West LA area.">
+<META NAME="Keywords" CONTENT="newsletter,school,santa monica,west la,brentwood,pacific palisades,dance,music">
+<META NAME="Description" CONTENT="View our school newsletters here for upcoming events and important information. The Santa Monica School of Dance and Music provides dance classes and music lessons for all ages, serving Pacific Palisades, Brentwood and West LA along with Santa Monica.">
 <META NAME="robots" content="index,follow">
 <META NAME="revisit-after" content="14">
 <META NAME="copyright" content="Santa Monica School of Dance and Music - All Rights Reserved">
@@ -212,8 +212,8 @@ Sherman Oaks, CA 91403
 <li>Optional, low pressure recitals</li>
 </ul>
 <p><a href="/why-choose-us#anchor">See more...</a></p>
-</div> -->
-
+</div>
+ -->
 
 <!-- <div class="pinkbox">
 <h4>Testimonials</h4>
@@ -263,51 +263,27 @@ $(document).ready(function(){
 <h4 style="font-size: 18px;">Brand new to dance classes or music lessons? Find out what you need to know!</h4>
 <p class="lg"><a href="/5-things-you-should-know-when-choosing-a-dance-studio"> - 5 Things Every Parent Should Know Before Choosing a Dance Studio</a></p>
 <p class="lg"><a href="/5-ways-to-get-the-most-out-of-music-lessons#anchor"> - 5 Ways to Get the Most Out of the Music Lessons</a></p>
-</div> -->
-</div>
+</div>-->
+</div> 
 
 <div class="mainleft">
-<h2 style="text-align: center;">Trying to decide between a few different<br />Dance or Music Schools?</h2>
-<p>Sherman Oaks' first dance studio and music school to offer both dance  classes and music lessons.  Dance classes in ballet, jazz, hip hop and  more are available along with private music lessons in piano, voice,  guitar, violin and bass. Sherman Oaks School of Dance and Music provides  students with the skills they need to enjoy dance and music for a  lifetime. Come join us!</p>
-<!-- <p style="text-align: center;"><span style="font-size: large;"><strong><a href="../docs/Schedules/2013-2014FallSchedule.pdf" target="_blank">Download our 2013-2014 School Year Schedule</a></strong></span></p>
-<p style="text-align: center;"><span style="font-size: large;"><strong><a href="../docs/Schedules/SummerGuide2014forweb.pdf" target="_blank">Download our 2014 Summer Schedule</a></strong></span></p> -->
-<p>We realize you have a choice between several different dance studios and  music schools in the San Fernando Valley. We invite you to compare all of the  features and options to see why we believe our school to be the finest  offering for dance and music in Sherman Oaks, Encino, Studio City and the greater San Fernando Valley area.</p>
-<p>&nbsp;</p>
-<table class="index">
-<tbody>
-<tr>
-<td><img src="images/home1.jpg" alt="" /></td>
-<td><img src="images/home2.jpg" alt="" /></td>
-<td><img src="images/home3.jpg" alt="" /></td>
-</tr>
-<tr>
-<td><img src="images/home4.jpg" alt="" /></td>
-<td><img src="images/home5.jpg" alt="" /></td>
-<td><img src="images/home6.jpg" alt="" /></td>
-</tr>
-<tr>
-<td><img src="images/ages-5-1.jpg" alt="" width="190" height="190" /></td>
-<td><img src="images/music-10.jpg" alt="" width="190" height="190" /></td>
-<td><img src="images/tuition-3.jpg" alt="" width="190" height="190" /></td>
-</tr>
-<tr>
-<td><img src="images/music-5.jpg" alt="" width="190" height="190" /></td>
-<td><img src="images/ages-1-4.jpg" alt="" width="190" height="190" /></td>
-<td><img src="images/music-11.jpg" alt="" width="190" height="190" /></td>
-</tr>
-</tbody>
-</table>
+<a name="anchor"></a>
+<h2 class="red">Newsletters</h2>
+<hr />
+<p>Our current newsletter will provide you with the latest on what's happening at Sherman Oaks School of Dance and Music.&nbsp; <a href="../docs/Newsletters/April-2014-Newsletter.pdf" target="_blank">Click here</a> or on the images below to view a PDF of the newsletter for you to download and print.&nbsp; If you would like to request a copy of an older newsletter, simply inquire at the front desk and we will be happy to print and send it to you.</p>
+<div class="newsletters">
+<p><a href="images/April-2014-Newsletter.pdf" target="_blank"><img title="April Newsletter Santa Monica School of Dance and Music" src="images/April_Newsletter.png" alt="April Newsletter Santa Monica School of Dance and Music" width="463" height="597" /></a></p>
+<p><a href="images/April-2014-Newsletter.pdf" target="_blank"><img title="April Newsletter Santa Monica School of Dance and Music" src="images/April_Newsletter_2.png" alt="April Newsletter Santa Monica School of Dance and Music" width="463" height="600" /></a></p>
+</div>
 </div>
 
 <hr>
-
-
-</div>
+<div class="partner-logos"></div>
 
 </div>
+
 </div>
-
-
+</div>
 
 <div class="bottom">
 

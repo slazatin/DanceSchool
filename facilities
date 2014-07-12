@@ -2,7 +2,7 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
 <html>
 <head>
-<title>Best Facilities in Santa Monica for Dance Classes &amp; Music Lessons | Pacific Palisades, Brentwood, West LA</title>
+<title>Contact Us for Dance Classes &amp; Music Lessons | Sherman Oaks, Encino, Studio City, and San Fernando Valley</title>
 <link href="styles-santamonicaschoolofdanceandmusic.css" rel="stylesheet" media="screen">
 <META NAME="Keywords" CONTENT="">
 <META NAME="Description" CONTENT="">
@@ -78,9 +78,9 @@ window._fbq.push(['track', '6018797429431', {'value':'0.00','currency':'USD'}]);
 <tr><td style="text-align: left; padding-left: 20px;">
 
 <a href="/facilities" class="facilities">
-(310) 453-7617<br>
-2923 Santa Monica Blvd.<br>
-Santa Monica, CA 90404
+(818) 280-9039<br>
+4454 Van Nuys Blvd. Suite G<br>
+Sherman Oaks, CA 91403
 </a>
 
 </td>
@@ -103,8 +103,6 @@ Santa Monica, CA 90404
 <span>Voice</span>
 <span>Violin</span>
 <span>Guitar</span>
-<span>Bass</span>
-<span>Songwriting</span>
 </p>
 </div>
 
@@ -117,7 +115,13 @@ Santa Monica, CA 90404
 
 <ul class="nav">
 
-<li><a href="index.html">Home</a></li>
+<li><a href="index.html">Home</a>
+<ul>
+  <li><a href="newsletters">Newsletters</a></li> 
+  <li><a href="calendar">Calendar</a></li> 
+  <li><a href="why-us">Why Choose Us</a></li>
+</ul>
+</li>
 
 <li><a>Dance Classes</a>
 <ul>
@@ -132,39 +136,31 @@ Santa Monica, CA 90404
 <li><a href="teen-adult-dance-classes">Ages Teen - Adult</a></li>
 <li><a href="dance-recitals">Dance Recital Information</a></li> 
 <!-- <li><a href="testimonials">Testimonials</a></li> -->
-<li><a href="facilities">Facilities</a></li>
+<li><a href="required-dance-wear">Dance Wear Information</a></li>
 </ul>
 </li>
 
 
 <li><a>Music Lessons</a>
 <ul>
-<li><a href="/music-lessons-all-ages-all-levels">Music Lessons Home</a>
-<li><a href="/piano-keyboard-lessons">Piano &amp; Keyboard Lessons</a></li>
-<li><a href="/voice-lessons">Voice &amp; Singing Lessons</a></li>
-<li><a href="/guitar-lessons-acoustic-electric-bass">Guitar &amp; Bass Lessons</a></li>
-<li><a href="/violin-lessons">Violin Lessons</a></li>
-<li><a href="/music-recitals">Music Recitals</a></li> 
+<li><a href="music-lessons-all-ages-all-levels">Music Lessons Home</a></li>
+<li><a href="piano-keyboard-lessons">Piano &amp; Keyboard Lessons</a></li>
+<li><a href="voice-lessons">Voice &amp; Singing Lessons</a></li>
+<li><a href="guitar-lessons-acoustic-electric-bass">Guitar Lessons</a></li>
+<li><a href="violin-lessons">Violin Lessons</a></li>
+<li><a href="music-recitals">Music Recital Information</a></li> 
 <!-- <li><a href="/testimonials">Testimonials</a></li> -->
-<li><a href="/facilities">Facilities</a></li>
 </ul>
 </li>
 
-<li><a>Current Students</a>
-<ul>
-<li><a href="/newsletters">Newsletters</a></li> 
-<li><a href="/calendar">Calendar</a></li> 
-<li><a href="/dance-recitals">Dance Recital Information</a></li> 
-<li><a href="/music-recitals">Music Recital Information</a></li> 
-<li><a href="/dance-company">Dance Company</a></li> 
-</ul>
-</li>
 
-<li style="text-align: center;"><a>Summer Classes</a>
+<li><a>Summer Classes</a>
 <ul> 
-<li><a href="/summer-camp">Summer Camp & Classes</a></li>
+<li><a href="summer-camp">Summer Camp & Classes</a></li>
 </ul>
 </li>
+
+<li><a href="facilities">Contact Us</a></li>
 
 </ul>
 
@@ -187,7 +183,7 @@ Santa Monica, CA 90404
 <div class="blackbox" style="text-align: center;">
 <p style="text-align: center;"><img src="images/register.png" alt="Register Now" style="max-height: 130px;"></p>
 <p>Call Us Today to Check Availability & Reserve Your Spot!<br>
-<h4 style="text-align: center; margin: 0; padding: 0; font-size: 25px;">310-453-7617</h4>
+<h4 style="text-align: center; margin: 0; padding: 0; font-size: 25px;">818-280-9039</h4>
 </div>
 
 <!--
@@ -204,7 +200,7 @@ Santa Monica, CA 90404
 <p class="smaller tight">Click above to watch a short video and learn more about our programs.</p>
 </div>
 -->
-<div class="greenbox">
+<!-- <div class="greenbox">
 <h4>Why Choose Us?</h4>
 <ul>
 <li>Professional 'Floating Marley Dance Floors' reduce fatigue and prevent injury</li>
@@ -216,7 +212,7 @@ Santa Monica, CA 90404
 <li>Optional, low pressure recitals</li>
 </ul>
 <p><a href="/why-choose-us#anchor">See more...</a></p>
-</div>
+</div> -->
 
 
 <!-- <div class="pinkbox">
@@ -263,19 +259,20 @@ $(document).ready(function(){
 </div>
 </div> -->
 
-<div class="orangebox">
+<!-- <div class="orangebox">
 <h4 style="font-size: 18px;">Brand new to dance classes or music lessons? Find out what you need to know!</h4>
 <p class="lg"><a href="/5-things-you-should-know-when-choosing-a-dance-studio"> - 5 Things Every Parent Should Know Before Choosing a Dance Studio</a></p>
 <p class="lg"><a href="/5-ways-to-get-the-most-out-of-music-lessons#anchor"> - 5 Ways to Get the Most Out of the Music Lessons</a></p>
-</div>
+</div> -->
 </div>
 
 <div class="mainleft">
 <a name="anchor"></a>
-<h2 class="red">Facilities &amp; Location</h2>
+<h2 class="red">Contact Us</h2>
 <hr />
 
-<p style="float: left; margin: 0 0 20px 20px;"> Coming Soon...</p>
+<h2><br />Sherman Oaks School of Dance &amp; Music&nbsp; -&nbsp; <span class="red bold">(818) 280-9039<br /></span></h2>
+<p>4454 Van Nuys Blvd Suite G, Sherman Oaks 91403 <span style="font-size: x-small;"><em>&nbsp;</em></span></p>
 <!-- <p style="float: right; margin: 0 0 20px 20px;">&nbsp;</p>
 <p><strong><span style="font-size: large;">Come visit us!</span></strong><img style="float: right;" title="santa-monica-school-of-dance-and-music-map" src="/gallery/santa_monica_school_of_dance_and_music_map.png" alt="Map of Santa Monica School of Dance and Music - Serving West LA, Santa Monica, Pacific Palisades, Brentwood, Culver City and Venice." width="365" height="362" /></p>
 <p>Our facilities are constantly being upgraded and we pride ourselves on our professional equipment and sound system. Our dance studios features a professional floating dance floor that prevents fatigue and reduces the risk of injury.&nbsp; This dance floor is an important part to what makes our facilities different.</p>
@@ -296,7 +293,7 @@ $(document).ready(function(){
 </div>
 </div>
 
-<div class="footer">
+<!-- <div class="footer">
 
 <table>
 <tr>
@@ -371,7 +368,7 @@ $(document).ready(function(){
 </table>
 
 
-</div>
+</div> -->
 
 <div class="bottom">
 

@@ -2,10 +2,10 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
 <html>
 <head>
-<title>Dance Classes &amp; Music Lessons Sherman Oaks - Dance Studio | Encino - Studio City - S.F. Valley</title>
+<title>Required Dance Wear - School of Dance and Music | Ballet Tap Hip Hop Jazz</title>
 <link href="styles-santamonicaschoolofdanceandmusic.css" rel="stylesheet" media="screen">
-<META NAME="Keywords" CONTENT="dance classes,music lessons,dance studio,santa monica,pacific palisades,brentwood,west la,summer camps">
-<META NAME="Description" CONTENT="Santa Monica School of Dance and Music provides dance classes and music lessons for all ages at the best dance studio serving Santa Monica, Brentwood, Pacific Palisades, and the greater West LA area.">
+<META NAME="Keywords" CONTENT="">
+<META NAME="Description" CONTENT="">
 <META NAME="robots" content="index,follow">
 <META NAME="revisit-after" content="14">
 <META NAME="copyright" content="Santa Monica School of Dance and Music - All Rights Reserved">
@@ -212,10 +212,10 @@ Sherman Oaks, CA 91403
 <li>Optional, low pressure recitals</li>
 </ul>
 <p><a href="/why-choose-us#anchor">See more...</a></p>
-</div> -->
+</div>
 
 
-<!-- <div class="pinkbox">
+<div class="pinkbox">
 <h4>Testimonials</h4>
 <div class="testimonials2">
 
@@ -257,9 +257,9 @@ $(document).ready(function(){
 <p style="padding-top: 0; margin-top: -20px;"><a href="/testimonials#anchor">See more...</a></p>
 
 </div>
-</div> -->
+</div>
 
-<!-- <div class="orangebox">
+<div class="orangebox">
 <h4 style="font-size: 18px;">Brand new to dance classes or music lessons? Find out what you need to know!</h4>
 <p class="lg"><a href="/5-things-you-should-know-when-choosing-a-dance-studio"> - 5 Things Every Parent Should Know Before Choosing a Dance Studio</a></p>
 <p class="lg"><a href="/5-ways-to-get-the-most-out-of-music-lessons#anchor"> - 5 Ways to Get the Most Out of the Music Lessons</a></p>
@@ -267,47 +267,99 @@ $(document).ready(function(){
 </div>
 
 <div class="mainleft">
-<h2 style="text-align: center;">Trying to decide between a few different<br />Dance or Music Schools?</h2>
-<p>Sherman Oaks' first dance studio and music school to offer both dance  classes and music lessons.  Dance classes in ballet, jazz, hip hop and  more are available along with private music lessons in piano, voice,  guitar, violin and bass. Sherman Oaks School of Dance and Music provides  students with the skills they need to enjoy dance and music for a  lifetime. Come join us!</p>
-<!-- <p style="text-align: center;"><span style="font-size: large;"><strong><a href="../docs/Schedules/2013-2014FallSchedule.pdf" target="_blank">Download our 2013-2014 School Year Schedule</a></strong></span></p>
-<p style="text-align: center;"><span style="font-size: large;"><strong><a href="../docs/Schedules/SummerGuide2014forweb.pdf" target="_blank">Download our 2014 Summer Schedule</a></strong></span></p> -->
-<p>We realize you have a choice between several different dance studios and  music schools in the San Fernando Valley. We invite you to compare all of the  features and options to see why we believe our school to be the finest  offering for dance and music in Sherman Oaks, Encino, Studio City and the greater San Fernando Valley area.</p>
-<p>&nbsp;</p>
+<a name="anchor"></a>
+<hr />
+<div class="indent">
+<p class="red">Ballet / Tap (1 1/2 yrs &ndash; 6 yrs) combination classes</p>
+<ul>
+<li>Leotard &ndash; any color</li>
+<li>Skirt &ndash; any color</li>
+<li>Tights &ndash; any color</li>
+<li>Ballet Shoes &ndash; pink</li>
+<li>Tap Shoes &ndash; black</li>
+<li>Hair must be tied back</li>
+</ul>
+<p class="red">Hip Hop (all ages)</p>
+<ul>
+<li>Comfortable/Flexible pants or shorts (NO tight jeans)</li>
+<li>T-shirt (NO midriff tops please)</li>
+<li>Comfortable Tennis Shoes</li>
+<li>Hair must be tied back</li>
+</ul>
+<p style="padding-left: 60px;">Please respect our floors &ndash; have a separate indoor-only tennis shoe for dance class. Dirty &ldquo;soccer&rdquo; or &ldquo;playground&rdquo; shoes track in sand and dirt onto our dance floors. Students wearing these shoes to Hip Hop class will be asked to remove them.</p>
+<p class="red">Ballet (6yrs &ndash; Adult)</p>
+<ul>
+<li>Leotard &ndash; black</li>
+<li>Tights &ndash; theatrical pink</li>
+<li>Skirt &ndash; any color</li>
+<li>Ballet Shoes &ndash; pink</li>
+<li>Hair must be in a neat, tight bun secured with bobby pins.</li>
+</ul>
+<p style="padding-left: 60px;">(Adults may wear practice clothes of their choice)</p>
+<p class="red">Tap (6yrs &ndash; Adult)</p>
+<ul>
+<li>Leotard or T-shirt &ndash; any color</li>
+<li>Tights &ndash; optional</li>
+<li>Skirt &ndash; any color</li>
+<li>Tap Shoes &ndash; black</li>
+<li>Comfortable / Flexible pants or shorts &ndash; any color</li>
+<li>Hair must be tied back</li>
+</ul>
+<p class="red">Jazz (6yrs &ndash; Adult)</p>
+<ul>
+<li>Leotard &ndash; any color</li>
+<li>Jazz Shoes &ndash; black</li>
+<li>Fitted Leggings / Flexible pants or shorts / Jazz Pants &ndash; any color </li>
+<li>Hair must be tied back</li>
+</ul>
+<p class="red">Hair &amp; Jewelry</p>
+<ul>
+<li>All hair must be tied back</li>
+<li>All one-hour ballet classes, hair must be in a neat, tight bun secured with bobby pins</li>
+<li>No jewelry</li>
+</ul>
+</div>
 <table class="index">
 <tbody>
 <tr>
-<td><img src="images/home1.jpg" alt="" /></td>
-<td><img src="images/home2.jpg" alt="" /></td>
-<td><img src="images/home3.jpg" alt="" /></td>
+<td>
+<p><img src="../images/dance-wear-1.jpg" alt="" /></p>
+<p><span style="font-size: x-small;">Ballet leotard</span></p>
+</td>
+<td>
+<p><img src="../images/dance-wear-2.jpg" alt="" /></p>
+<p><span style="font-size: x-small;">Ballet slippers</span></p>
+</td>
+<td>
+<p><img src="../images/dance-wear-3.jpg" alt="" /></p>
+<p><span style="font-size: x-small;">Ballet skirt for Ballet/Tap classes</span></p>
+</td>
 </tr>
 <tr>
-<td><img src="images/home4.jpg" alt="" /></td>
-<td><img src="images/home5.jpg" alt="" /></td>
-<td><img src="images/home6.jpg" alt="" /></td>
-</tr>
-<tr>
-<td><img src="images/ages-5-1.jpg" alt="" width="190" height="190" /></td>
-<td><img src="images/music-10.jpg" alt="" width="190" height="190" /></td>
-<td><img src="images/tuition-3.jpg" alt="" width="190" height="190" /></td>
-</tr>
-<tr>
-<td><img src="images/music-5.jpg" alt="" width="190" height="190" /></td>
-<td><img src="images/ages-1-4.jpg" alt="" width="190" height="190" /></td>
-<td><img src="images/music-11.jpg" alt="" width="190" height="190" /></td>
+<td>
+<p><img src="../images/dance-wear-4.jpg" alt="" /></p>
+<p><span style="font-size: x-small;">Tap shoes</span></p>
+</td>
+<td>
+<p><img src="../images/dance-wear-5.jpg" alt="" /></p>
+<p><span style="font-size: x-small;">Jazz pants</span></p>
+</td>
+<td>
+<p><img src="../images/dance-wear-6.jpg" alt="" /></p>
+<p><span style="font-size: x-small;">Jazz shoes</span></p>
+</td>
 </tr>
 </tbody>
 </table>
 </div>
 
 <hr>
-
-
-</div>
+<div class="partner-logos"></div>
 
 </div>
+
 </div>
-
-
+</div>
 
 <div class="bottom">
 

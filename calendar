@@ -2,10 +2,10 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
 <html>
 <head>
-<title>Dance Classes &amp; Music Lessons Sherman Oaks - Dance Studio | Encino - Studio City - S.F. Valley</title>
+<title>Sherman Oaks School of Dance and Music Calendar</title>
 <link href="styles-santamonicaschoolofdanceandmusic.css" rel="stylesheet" media="screen">
-<META NAME="Keywords" CONTENT="dance classes,music lessons,dance studio,santa monica,pacific palisades,brentwood,west la,summer camps">
-<META NAME="Description" CONTENT="Santa Monica School of Dance and Music provides dance classes and music lessons for all ages at the best dance studio serving Santa Monica, Brentwood, Pacific Palisades, and the greater West LA area.">
+<META NAME="Keywords" CONTENT="calendar,dance classes,music lessons,santa monica,pacific palisades,west la,brentwood,dance studio">
+<META NAME="Description" CONTENT="School calendar for Santa Monica School of Dance and Music provides important dates for the dance studio and music school serving the greater West LA area including Pacific Palisades and Brentwood.">
 <META NAME="robots" content="index,follow">
 <META NAME="revisit-after" content="14">
 <META NAME="copyright" content="Santa Monica School of Dance and Music - All Rights Reserved">
@@ -212,10 +212,10 @@ Sherman Oaks, CA 91403
 <li>Optional, low pressure recitals</li>
 </ul>
 <p><a href="/why-choose-us#anchor">See more...</a></p>
-</div> -->
+</div>
 
 
-<!-- <div class="pinkbox">
+<div class="pinkbox">
 <h4>Testimonials</h4>
 <div class="testimonials2">
 
@@ -257,9 +257,9 @@ $(document).ready(function(){
 <p style="padding-top: 0; margin-top: -20px;"><a href="/testimonials#anchor">See more...</a></p>
 
 </div>
-</div> -->
+</div>
 
-<!-- <div class="orangebox">
+<div class="orangebox">
 <h4 style="font-size: 18px;">Brand new to dance classes or music lessons? Find out what you need to know!</h4>
 <p class="lg"><a href="/5-things-you-should-know-when-choosing-a-dance-studio"> - 5 Things Every Parent Should Know Before Choosing a Dance Studio</a></p>
 <p class="lg"><a href="/5-ways-to-get-the-most-out-of-music-lessons#anchor"> - 5 Ways to Get the Most Out of the Music Lessons</a></p>
@@ -267,47 +267,44 @@ $(document).ready(function(){
 </div>
 
 <div class="mainleft">
-<h2 style="text-align: center;">Trying to decide between a few different<br />Dance or Music Schools?</h2>
-<p>Sherman Oaks' first dance studio and music school to offer both dance  classes and music lessons.  Dance classes in ballet, jazz, hip hop and  more are available along with private music lessons in piano, voice,  guitar, violin and bass. Sherman Oaks School of Dance and Music provides  students with the skills they need to enjoy dance and music for a  lifetime. Come join us!</p>
-<!-- <p style="text-align: center;"><span style="font-size: large;"><strong><a href="../docs/Schedules/2013-2014FallSchedule.pdf" target="_blank">Download our 2013-2014 School Year Schedule</a></strong></span></p>
-<p style="text-align: center;"><span style="font-size: large;"><strong><a href="../docs/Schedules/SummerGuide2014forweb.pdf" target="_blank">Download our 2014 Summer Schedule</a></strong></span></p> -->
-<p>We realize you have a choice between several different dance studios and  music schools in the San Fernando Valley. We invite you to compare all of the  features and options to see why we believe our school to be the finest  offering for dance and music in Sherman Oaks, Encino, Studio City and the greater San Fernando Valley area.</p>
+<a name="anchor"></a>
+<h2 class="red">School Calendar</h2>
+<hr />
+<p>Sherman Oaks School of Dance and Music calendar highlights important dates for the dance studio and music school in Santa Monica.&nbsp; Click on the calendar below to enlarge and to also bring up a printable version that you can use at home.</p>
 <p>&nbsp;</p>
-<table class="index">
-<tbody>
-<tr>
-<td><img src="images/home1.jpg" alt="" /></td>
-<td><img src="images/home2.jpg" alt="" /></td>
-<td><img src="images/home3.jpg" alt="" /></td>
-</tr>
-<tr>
-<td><img src="images/home4.jpg" alt="" /></td>
-<td><img src="images/home5.jpg" alt="" /></td>
-<td><img src="images/home6.jpg" alt="" /></td>
-</tr>
-<tr>
-<td><img src="images/ages-5-1.jpg" alt="" width="190" height="190" /></td>
-<td><img src="images/music-10.jpg" alt="" width="190" height="190" /></td>
-<td><img src="images/tuition-3.jpg" alt="" width="190" height="190" /></td>
-</tr>
-<tr>
-<td><img src="images/music-5.jpg" alt="" width="190" height="190" /></td>
-<td><img src="images/ages-1-4.jpg" alt="" width="190" height="190" /></td>
-<td><img src="images/music-11.jpg" alt="" width="190" height="190" /></td>
-</tr>
-</tbody>
-</table>
+<p><a href="images/2013-2014-School-Year-Calendar.pdf" target="_blank"><img title="santa_monica_school_dance_music_calendar_2013_2014" src="images/School_Calendar_Website_1.jpg" alt="santa_monica_school_dance_music_calendar_2013_2014" width="486" height="628" /></a></p>
+<p style="padding-left: 30px;">&nbsp;</p>
+<p style="padding-left: 30px;"><strong><span style="font-size: medium;">IMPORTANT DATES<br /></span></strong></p>
+<hr />
+<!-- <p style="padding-left: 30px;"><strong>Sept. 3</strong> - First Day of 2013-2014 School Year</p>
+<p style="padding-left: 30px;"><strong>Dec. 9-14</strong> - In-Studio Holiday Performance</p>
+<p style="padding-left: 30px;"><strong>Apr. 14-20</strong> - Spring Break</p>
+<p style="padding-left: 30px;"><strong>Apr. 21 </strong>- Early Bird Registration for Summer 2014 ends</p>
+<p style="padding-left: 30px;"><strong>May</strong> - Registration for 2014-2015 School Year Open to the General Public</p>
+<p style="padding-left: 30px;"><strong>Jun. 23</strong> - Last Day of 2013-2014 School Year</p>
+<p style="padding-left: 30px;"><strong>Jul. 7 - Aug. 16</strong> - Summer Session 2014</p>
+<p style="padding-left: 30px;">&nbsp;</p> -->
+<p style="padding-left: 30px;"><span style="font-size: medium;"><strong>DANCE RECITAL<br /></strong></span></p>
+<hr />
+<!-- <p style="padding-left: 30px;"><strong>Nov. 17</strong>&nbsp;- Dance Recital Participation* Deadline<em>&nbsp;<br /></em><span style="font-size: xx-small;"><em>(*Students must be enrolled &amp; signed up for the recital at the front desk by this day in order to be guaranteed participation in the June 2014 Dance Recital)</em></span></p>
+<p style="padding-left: 30px;"><strong>Apr. 26</strong>&nbsp;- Program Ad Form Deadline for Dance Recital</p>
+<p style="padding-left: 30px;"><strong>May 10-11</strong> - Complimentary Costume Seamstress Days (by appt. only)</p>
+<p style="padding-left: 30px;"><strong>May 10</strong>&nbsp;- Volunteer Form Deadline for Dance Recital</p>
+<p style="padding-left: 30px;"><strong>Jun. 2, 3 and 5</strong> - Dress Rehearsals for Dance Recital</p> -->
+<!-- <p style="padding-left: 30px;"><strong>June 8</strong> - Dance Recital 2014</p> -->
+<p style="padding-left: 30px;">&nbsp;</p>
+<p style="padding-left: 30px;"><strong><span><span style="font-size: medium;"><strong>MUSIC RECITAL<br /></strong></span></span></strong></p>
+<hr />
+<!-- <p style="padding-left: 30px;"><strong>Jun. 15</strong> - Spring Music Recital</p> -->
 </div>
 
 <hr>
-
-
-</div>
+<div class="partner-logos"></div>
 
 </div>
+
 </div>
-
-
+</div>
 
 <div class="bottom">
 

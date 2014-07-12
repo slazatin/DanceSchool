@@ -2,7 +2,7 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
 <html>
 <head>
-<title>Santa Monica Violin Lessons - Pacific Palisades, Brentwood, West LA</title>
+<title>Sherman Oaks Violin Lessons</title>
 <link href="styles-santamonicaschoolofdanceandmusic.css" rel="stylesheet" media="screen">
 <META NAME="Keywords" CONTENT="">
 <META NAME="Description" CONTENT="">
@@ -78,9 +78,9 @@ window._fbq.push(['track', '6018797429431', {'value':'0.00','currency':'USD'}]);
 <tr><td style="text-align: left; padding-left: 20px;">
 
 <a href="/facilities" class="facilities">
-(310) 453-7617<br>
-2923 Santa Monica Blvd.<br>
-Santa Monica, CA 90404
+(818) 280-9039<br>
+4454 Van Nuys Blvd. Suite G<br>
+Sherman Oaks, CA 91403
 </a>
 
 </td>
@@ -103,8 +103,6 @@ Santa Monica, CA 90404
 <span>Voice</span>
 <span>Violin</span>
 <span>Guitar</span>
-<span>Bass</span>
-<span>Songwriting</span>
 </p>
 </div>
 
@@ -117,7 +115,13 @@ Santa Monica, CA 90404
 
 <ul class="nav">
 
-<li><a href="index.html">Home</a></li>
+<li><a href="index.html">Home</a>
+<ul>
+  <li><a href="newsletters">Newsletters</a></li> 
+  <li><a href="calendar">Calendar</a></li> 
+  <li><a href="why-us">Why Choose Us</a></li>
+</ul>
+</li>
 
 <li><a>Dance Classes</a>
 <ul>
@@ -132,39 +136,31 @@ Santa Monica, CA 90404
 <li><a href="teen-adult-dance-classes">Ages Teen - Adult</a></li>
 <li><a href="dance-recitals">Dance Recital Information</a></li> 
 <!-- <li><a href="testimonials">Testimonials</a></li> -->
-<li><a href="facilities">Facilities</a></li>
+<li><a href="required-dance-wear">Dance Wear Information</a></li>
 </ul>
 </li>
 
 
 <li><a>Music Lessons</a>
 <ul>
-<li><a href="music-lessons-all-ages-all-levels">Music Lessons Home</a>
+<li><a href="music-lessons-all-ages-all-levels">Music Lessons Home</a></li>
 <li><a href="piano-keyboard-lessons">Piano &amp; Keyboard Lessons</a></li>
 <li><a href="voice-lessons">Voice &amp; Singing Lessons</a></li>
-<li><a href="guitar-lessons-acoustic-electric-bass">Guitar &amp; Bass Lessons</a></li>
+<li><a href="guitar-lessons-acoustic-electric-bass">Guitar Lessons</a></li>
 <li><a href="violin-lessons">Violin Lessons</a></li>
-<li><a href="music-recitals">Music Recitals</a></li> 
-<!-- <li><a href="/testimonials">Testimonials</a></li> -->
-<li><a href="facilities">Facilities</a></li>
-</ul>
-</li>
-
-<li><a>Current Students</a>
-<ul>
-<li><a href="newsletters">Newsletters</a></li> 
-<li><a href="calendar">Calendar</a></li> 
-<li><a href="dance-recitals">Dance Recital Information</a></li> 
 <li><a href="music-recitals">Music Recital Information</a></li> 
-<li><a href="dance-company">Dance Company</a></li> 
+<!-- <li><a href="/testimonials">Testimonials</a></li> -->
 </ul>
 </li>
 
-<li style="text-align: center;"><a>Summer Classes</a>
+
+<li><a>Summer Classes</a>
 <ul> 
-<li><a href="/summer-camp">Summer Camp & Classes</a></li>
+<li><a href="summer-camp">Summer Camp & Classes</a></li>
 </ul>
 </li>
+
+<li><a href="facilities">Contact Us</a></li>
 
 </ul>
 
@@ -187,9 +183,9 @@ Santa Monica, CA 90404
 <div class="blackbox" style="text-align: center;">
 <p style="text-align: center;"><img src="images/register.png" alt="Register Now" style="max-height: 130px;"></p>
 <p>Call Us Today to Check Availability & Reserve Your Spot!<br>
-<h4 style="text-align: center; margin: 0; padding: 0; font-size: 25px;">310-453-7617</h4>
+<h4 style="text-align: center; margin: 0; padding: 0; font-size: 25px;">818-280-9039</h4>
 </div>
-<div class="blackbox" style="text-align: center;">
+<!-- <div class="blackbox" style="text-align: center;">
 
 <h4 style="text-align: center; font-size: 22px;">Click by Instrument</h4>
 <br>
@@ -201,7 +197,7 @@ Santa Monica, CA 90404
 <tr>
 <td><a href="/guitar-lessons-acoustic-electric-bass"><img src="images/btn-music-guitar.jpg" alt="Click Here"></a></td>
 <td><a href="/violin-lessons"><img src="images/btn-music-violin.jpg" alt="Click Here"></a></td>
-</tr>
+</tr> -->
 <!-- <tr>
 <td><a href="/violin-lessons"><img src="images/btn-music-violin.jpg" alt="Click Here"></a></td>
 <td><a href="/drum-lessons"><img src="images/btn-music-drums.jpg" alt="Click Here"></a></td>
@@ -212,17 +208,17 @@ Santa Monica, CA 90404
 <td colspan="2" align="center"><a href="/"><img src="images/btn-music-songwriting.jpg" alt="Click Here"></a></td>
 </tr>
 -->
-
+<!-- 
 </table>
 
 <p><span class="lg bold up">PDF of Schedule</span> <a href="http://www.santamonicaschoolofdanceandmusic.com/docs/Schedules/2013-2014FallSchedule.pdf" target="_new">click here</a></p>
 <p><span class="lg bold up">Tuition</span> <a href="/fees-and-policies#anchor">click here</a></p>
-
+ -->
 <!--
 <p><span class="lg bold up">How to Register</span> <a href="/how-to-register">click here</a></p>
 -->
 
-</div>
+<!-- </div>
 <div class="greenbox">
 <h4>Why Choose Us?</h4>
 <ul>
@@ -235,7 +231,7 @@ Santa Monica, CA 90404
 <li>Optional, low pressure recitals</li>
 </ul>
 <p><a href="/why-choose-us#anchor">See more...</a></p>
-</div>
+</div> -->
 
 
 <!-- <div class="pinkbox">
@@ -281,7 +277,7 @@ $(document).ready(function(){
 
 </div>
 </div> -->
-
+<!-- 
 <div class="orangebox">
 <h4 style="font-size: 18px;">Starting Lessons Off Right</h4>
 <ol>
@@ -299,7 +295,7 @@ $(document).ready(function(){
 <p align="left">A: It is ideal if you have a piano at home, but you can start lessons by using an electric keyboard to practice on. Most our students rent or buy...</p>
 <p><a href="/music-frequently-asked-questions#anchor">See more...</a></p>
 </div>
-
+ -->
 
 <!-- <div class="greenbox">
 <h4 align="center">Music Recital</h4> 
@@ -314,7 +310,7 @@ $(document).ready(function(){
 <p>&nbsp;</p>
 <hr />
 <p>&nbsp;</p>
-<p>The Santa Monica School of Dance and Music offers violin lessons for students ages 4<span>&frac12;</span> &nbsp;years to adult, of all abilities from beginners to very advanced students. Our private violin lessons are one-on-one instruction and lesson lengths are 30 minutes, 45 minutes or 1 hour. We offer instruction in various styles from rock to classical, jazz and pop. We have students who want to learn to play violin just for fun and students practicing for our recital or a big event.</p>
+<p>The Sherman Oaks School of Dance and Music offers violin lessons for students ages 4<span>&frac12;</span> &nbsp;years to adult, of all abilities from beginners to very advanced students. Our private violin lessons are one-on-one instruction and lesson lengths are 30 minutes, 45 minutes or 1 hour. We offer instruction in various styles from rock to classical, jazz and pop. We have students who want to learn to play violin just for fun and students practicing for our recital or a big event.</p>
 <p>We accept violin students from the age of 4<span>&frac12;</span>. Some teachers will start children as young as 3, but experience has shown that the most productive learning occurs when the beginner is 4<span>&frac12;</span> or older.</p>
 <p><img src="../images/violin.jpg" alt="Piano Lessons" /><br /><br /><span style="text-decoration: underline;"><strong>Why learn violin?</strong></span><br /><br />Why choose the violin over another instrument? &ldquo;Because the violin is so versatile!&rdquo; <a href="http://artistworks.com/blog/how-i-decided-learn-play-violin" target="_blank">says Nathan Cole</a>, the First Associate Concertmaster at the Los Angeles Philharmonic. <br /><br /><em>&ldquo;You can play alone, choosing from hundreds of years&rsquo; worth of solo repertoire from composers as diverse as Bach, Paganini, Bartok and John Adams. You can play with one friend who has a piano, or with three in a string quartet. You can play in a string orchestra or a full orchestra. And there are many more community orchestras than professional ones, so that anybody who wants to play in a group has a chance. And who says that you have to play only classical violin? Cultures all over the world use the violin because of its versatility. That&rsquo;s why we have so many styles of fiddling in America and Europe, why the Roma people have a &ldquo;gypsy&rdquo; style all their own, and why the violin is so important in Indian music.&rdquo;</em><br /><br />Cole began learning to play the violin when he was four years old. He loved his lessons, and it wasn&rsquo;t long before he began directing his own study of the instrument. Not every student will have Cole&rsquo;s lifelong passion, but there&rsquo;s no reason students young and old can&rsquo;t enjoy learning to play the violin. Besides the fun to be had from it, countless studies and testimonials sing the developmental praises of learning a musical instrument, with benefits (eighteen of which can be found <a href="http://www.effectivemusicteaching.com/articles/directors/18-benefits-of-playing-a-musical-instrument/" target="_blank">here</a>) as wide ranging as better memory and improved math skills.<br /><br /><span style="text-decoration: underline;"><strong>Isn&rsquo;t four kind of young to start?</strong></span><br /><br />Not at all! Younger students whose hands and bodies aren&rsquo;t large enough to handle a full-size violin may begin on smaller, student versions of the instrument, but kids as young as four can certainly begin learning how to play. Musical instruments like the violin are exciting new things to explore. Kids need encouragement, but the violin can be a great way for a kid to learn patience and discipline while still seeing plenty of results to stay excited about learning.</p>
 </div>
@@ -327,91 +323,14 @@ $(document).ready(function(){
 </div>
 </div>
 
-<div class="footer">
-
-<table>
-<tr>
-<td>
-
-<h2><a href="/">HOME</a></h2><br>
-
-<h2><a href="/dance-classes-all-ages-all-levels">Dance Classes, Dance Studios<br>Santa Monica, West LA, Pacific Palisades</a></h2>
-<p>
-<a href="/5-things-you-should-know-when-choosing-a-dance-studio">Why Choose Us</a>
-<a href="http://schoolofdanceandmusic.com/docs/Schedules/2013-2014FallSchedule.pdf" target="_new">Schedule</a>
-<a href="/tuition">Tuition</a>
-<a href="/1-2-yr-old-mommy-me-classes">Ages 2 1/2 - 3 yrs. (Mommy &amp; Me)</a>
-<a href="/2-3-yr-old-dance-classes">Ages 2 1/2 - 3 1/2 yrs.</a>
-<a href="/3-4-yr-old-dance-classes">Ages 3 - 4 1/2 yrs.</a>
-<a href="/4-5-yr-old-dance-classes">Ages 4 - 5 1/2 yrs.</a>
-<a href="/5-6-yr-old-dance-classes">Ages 5 - 6 1/2 yrs.</a>
-<a href="/6-9-yr-old-dance-classes">Ages 6 - 9 1/2 yrs.</a>
-<a href="/9-12-yr-old-dance-classes">Ages 9 - 12 yrs.</a>
-<a href="/teen-adult-dance-classes">Ages Teen - Adult</a>
-<a href="/dance-recitals">Dance Recital Information</a>
-<a href="/dance-company">Dance Company</a>
-<a href="/testimonials">Testimonials</a>
-
-
-</p>
-
-</td>
-<td>
-
-<h2><a href="/music-lessons-all-ages-all-levels">Music Lessons, Music Teachers<br>Santa Monica, West LA, Pacific Palisades</a></h2>
-<p>
-
-<a class="first" href="/5-ways-to-get-the-most-out-of-music-lessons">Starting Lessons Right</a>
-<a href="http://schoolofdanceandmusic.com/docs/Schedules/2013-2014FallSchedule.pdf" target="_new">Schedule</a>
-<a href="/tuition">Tuition</a>
-<a href="/music-frequently-asked-questions">Common Q &amp; A</a>
-<a href="/piano-keyboard-lessons">Piano &amp; Keyboard Lessons</a>
-<a href="/voice-lessons">Voice &amp; Singing Lessons</a>
-<a href="/guitar-lessons-acoustic-electric-bass">Guitar &amp; Bass Lessons</a>
-<a href="/violin-lessons">Violin Lessons</a>
-<a href="/music-recitals">Music Recital Information</a>
-<a href="/testimonials">Testimonials</a>
-
-
-</p>
-
-</td>
-<td>
-
-<h2><a href="/current-student-information">Current Students</a></h2>
-<p>
-<a href="/newsletters">Newsletters</a> 
-<a href="/calendar">Calendar</a> 
-<a href="/required-dance-wear">Required Dance Wear   </a> 
-<a href="/dance-recitals">Dance Recital Information</a> 
-<a href="/music-recitals">Music Recital Information</a> 
-<a href="/dance-company">Dance Company</a> 
-
-</p>
-
-</td>
-<td>
-
-<h2><a href="/summer-camp">Summer Camp & Classes<br>Santa Monica, West LA, Pacific Palisades</a></h2><br>
-<h2><a href="/testimonials">Testimonials</a></h2><br>
-<h2><a href="/why-choose-us">Studio Comparison List</a></h2><br>
-<h2><a href="/facilities">Facilities</a></h2>
-
-</td>
-</tr>
-</table>
-
-
-</div>
-
 <div class="bottom">
 
 
 
-<p>Santa Monica School of Dance & Music provides dance classes and music lessons to the greater West LA area for all ages in a professional and friendly environment.</p>
+<p><b>Sherman Oaks School of Dance & Music provides dance classes and music lessons to the greater San Fernando Valley area </br> for all ages in a professional and friendly environment.</b></p>
 <p>   
-<span class="fleft">&copy;  2014 Santa Monica School of Dance and Music.</span>
-<span class="fright"><a href="/fees-and-policies">Privacy Policy</a> <a href="#top">Back to Top</a></span>
+<span class="fleft">&copy;  2014 Sherman Oaks School of Dance and Music.</span>
+<span class="fright"> <a href="#top">Back to Top</a></span>
 </p>
 </div>
 

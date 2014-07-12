@@ -2,10 +2,10 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
 <html>
 <head>
-<title>Dance Classes &amp; Music Lessons Sherman Oaks - Dance Studio | Encino - Studio City - S.F. Valley</title>
+<title>Sherman Oaks Summer Camps &amp; Classes - Dance &amp; Music </title>
 <link href="styles-santamonicaschoolofdanceandmusic.css" rel="stylesheet" media="screen">
-<META NAME="Keywords" CONTENT="dance classes,music lessons,dance studio,santa monica,pacific palisades,brentwood,west la,summer camps">
-<META NAME="Description" CONTENT="Santa Monica School of Dance and Music provides dance classes and music lessons for all ages at the best dance studio serving Santa Monica, Brentwood, Pacific Palisades, and the greater West LA area.">
+<META NAME="Keywords" CONTENT="summer camps,classes,santa monica,dance,music,pacific palisades,brentwood,west la">
+<META NAME="Description" CONTENT="Summer Camps &amp; Classes in Santa Monica for all ages in dance and music.  Summer classes are available for students from the greater West LA area including Pacific Palisades and Brentwood.">
 <META NAME="robots" content="index,follow">
 <META NAME="revisit-after" content="14">
 <META NAME="copyright" content="Santa Monica School of Dance and Music - All Rights Reserved">
@@ -212,10 +212,10 @@ Sherman Oaks, CA 91403
 <li>Optional, low pressure recitals</li>
 </ul>
 <p><a href="/why-choose-us#anchor">See more...</a></p>
-</div> -->
+</div>
 
 
-<!-- <div class="pinkbox">
+<div class="pinkbox">
 <h4>Testimonials</h4>
 <div class="testimonials2">
 
@@ -257,9 +257,9 @@ $(document).ready(function(){
 <p style="padding-top: 0; margin-top: -20px;"><a href="/testimonials#anchor">See more...</a></p>
 
 </div>
-</div> -->
+</div>
 
-<!-- <div class="orangebox">
+<div class="orangebox">
 <h4 style="font-size: 18px;">Brand new to dance classes or music lessons? Find out what you need to know!</h4>
 <p class="lg"><a href="/5-things-you-should-know-when-choosing-a-dance-studio"> - 5 Things Every Parent Should Know Before Choosing a Dance Studio</a></p>
 <p class="lg"><a href="/5-ways-to-get-the-most-out-of-music-lessons#anchor"> - 5 Ways to Get the Most Out of the Music Lessons</a></p>
@@ -267,47 +267,146 @@ $(document).ready(function(){
 </div>
 
 <div class="mainleft">
-<h2 style="text-align: center;">Trying to decide between a few different<br />Dance or Music Schools?</h2>
-<p>Sherman Oaks' first dance studio and music school to offer both dance  classes and music lessons.  Dance classes in ballet, jazz, hip hop and  more are available along with private music lessons in piano, voice,  guitar, violin and bass. Sherman Oaks School of Dance and Music provides  students with the skills they need to enjoy dance and music for a  lifetime. Come join us!</p>
-<!-- <p style="text-align: center;"><span style="font-size: large;"><strong><a href="../docs/Schedules/2013-2014FallSchedule.pdf" target="_blank">Download our 2013-2014 School Year Schedule</a></strong></span></p>
-<p style="text-align: center;"><span style="font-size: large;"><strong><a href="../docs/Schedules/SummerGuide2014forweb.pdf" target="_blank">Download our 2014 Summer Schedule</a></strong></span></p> -->
-<p>We realize you have a choice between several different dance studios and  music schools in the San Fernando Valley. We invite you to compare all of the  features and options to see why we believe our school to be the finest  offering for dance and music in Sherman Oaks, Encino, Studio City and the greater San Fernando Valley area.</p>
+<a name="anchor"></a>
+<h2 class="red">Summer Camps - Summer Dance Classes &amp; Music Lessons</h2>
+<hr />
+<p>Coming Soon...</p>
+<!-- <p>Enrich your child&rsquo;s summer and keep them active with a wide variety of summer camps, as well as summer dance classes and music lessons to choose from!</p>
+<p>We have week-long summer camps where students can explore and try something new or enhance existing skills.  What a great way to keep their bodies active and make new friends! &nbsp;Our summer dance and music camps are for all ages groups. Check out the descriptions below to learn more about our various camps.</p>
+<p style="text-align: center;"><a href="../docs/Schedules/SummerGuide2014forweb.pdf" target="_blank"><span style="font-size: medium;"><strong>Download &amp; View the Summer Camps and Classes Schedule &amp; Guide for 2014</strong></span></a></p>
+<p><a href="../docs/Schedules/SummerGuide2014forweb.pdf" target="_blank"><img style="display: block; margin-left: auto; margin-right: auto;" title="Summer Guide 2014 for Summer Camps &amp; Classes in Santa Monica" src="/gallery/SummerGuide2014forweb.png" alt="Summer Guide 2014 for Summer Camps &amp; Classes in Santa Monica" width="254" height="386" /></a></p>
+<p>Flexible summer dance classes &amp; private music lessons are also available this summer.</p>
+<p><strong>Registration for our 6-week Summer Session (July 7 - Aug. 16) is open!<span style="font-size: x-large;"><br /></span></strong></p>
 <p>&nbsp;</p>
+<h2 class="red">SUMMER DANCE CLASSES<br /><span style="font-size: small; color: #000000;"><strong>Ballet - Jazz - Contemporary - Tap - Hip Hop - Break Dance - Preschool Ballet/Tap - Mommy &amp; Me</strong>&nbsp;</span></h2>
+<hr />
+<p>In addition to our summer camps, we also offer Flexible Dance Classes this summer!&nbsp; Try a new instrument or dance class, get a jump start for your band, work on a new style, or get a head start for the Fall.&nbsp; Whatever your interests are, we have flexible dance classes and music lessons available in July &amp; August!</p>
+<p>Don&rsquo;t worry if you&rsquo;re in and out of town throughout our 6-week Summer Session (July 7 - Aug. 16)...you can easily make up your missed classes.<span style="font-size: medium;">&nbsp;</span></p>
 <table class="index">
 <tbody>
 <tr>
-<td><img src="images/home1.jpg" alt="" /></td>
-<td><img src="images/home2.jpg" alt="" /></td>
-<td><img src="images/home3.jpg" alt="" /></td>
+<td><img src="../images/summer4.jpg" alt="" /></td>
+<td><img src="../images/summer3.jpg" alt="" /></td>
+<td><img src="../images/summer2.jpg" alt="" /></td>
 </tr>
 <tr>
-<td><img src="images/home4.jpg" alt="" /></td>
-<td><img src="images/home5.jpg" alt="" /></td>
-<td><img src="images/home6.jpg" alt="" /></td>
-</tr>
-<tr>
-<td><img src="images/ages-5-1.jpg" alt="" width="190" height="190" /></td>
-<td><img src="images/music-10.jpg" alt="" width="190" height="190" /></td>
-<td><img src="images/tuition-3.jpg" alt="" width="190" height="190" /></td>
-</tr>
-<tr>
-<td><img src="images/music-5.jpg" alt="" width="190" height="190" /></td>
-<td><img src="images/ages-1-4.jpg" alt="" width="190" height="190" /></td>
-<td><img src="images/music-11.jpg" alt="" width="190" height="190" /></td>
+<td><br /></td>
+<td><br /></td>
+<td><br /></td>
 </tr>
 </tbody>
 </table>
+<h2 class="red">SUMMER MUSIC LESSONS<br /><span style="font-size: small; color: #000000;"><strong>Piano - Voice - Guitar - Bass - Violin - Drums - Guitar Jr - Piano/Voice Combo</strong>&nbsp;</span></h2>
+<hr />
+<p>Most students spend the first 2 months of fall reviewing what they have forgotten over summer! Why not take a few summer lessons to keep up your skill or even try a new instrument? Our school offers flexible private music lessons for all ages. Summer Session runs July 7 - Aug. 16.</p>
+<p>Let us know the weeks you&rsquo;re out of town when you register and we&rsquo;ll accommodate you with alternate lesson times for unlimited make-ups in the summer. Hours vary Mon-Fri 2pm-8pm, and Sat 9am-2pm.</p>
+<table class="index">
+<tbody>
+<tr>
+<td><img src="../images/summercamp-6.jpg" alt="" width="190" height="190" /></td>
+<td><img src="../images/tuition-2.jpg" alt="" width="190" height="190" /></td>
+<td><img src="../images/tuition-6.jpg" alt="" width="190" height="190" /></td>
+</tr>
+<tr>
+<td><br /></td>
+<td><br /></td>
+<td><br /></td>
+</tr>
+</tbody>
+</table>
+<h2 class="red">SUMMER CAMPS</h2>
+<div class="indent">
+<hr />
+<table class="pages">
+<tbody>
+<tr>
+<td style="width: 220px;">
+<h2 class="red"><span style="color: #000000; font-size: medium;">All-In-One Camp</span></h2>
+<table class="index">
+<tbody>
+<tr>
+<td><img src="../images/allinone1.jpg" alt="" /></td>
+<td><br /></td>
+<td><br /></td>
+</tr>
+<tr>
+<td><img src="../images/summercamp-1.jpg" alt="" /><br /></td>
+<td><br /></td>
+<td><br /></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td style="padding-left: 25px;">
+<p>Our most popular camp! Students will participate in  Tumbling, Hip Hop, Jazz, Yoga, Piano, Acting, Musical Theater, and  Singing with an end-of-the-week demo for loved ones. Each week has  different choreography and music which makes it popular to sign up for  more than 1 week. Students will be engaged by multiple teachers  throughout the day. Please bring a bagged lunch; snacks will be  provided. Please wear comfortable clothes &amp; tennis shoes.  Limited  to 12 students.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<table class="pages">
+<tbody>
+<tr>
+<td style="width: 220px;">
+<h2 class="red"><span style="color: #000000; font-size: medium;">Princess Ballet Camp</span></h2>
+<table class="index">
+<tbody>
+<tr>
+<td><img src="../images/princess2.jpg" alt="" /></td>
+<td><br /></td>
+<td><br /></td>
+</tr>
+<tr>
+<td><img src="../images/princess3.jpg" alt="" /><br /></td>
+<td><br /></td>
+<td><br /></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td style="padding-left: 25px;">
+<p>Your little princess can join us for a energetic week of dancing  where she will be given a tiara and princess skirt! At the end of this  1-week camp, princesses will put on an in-studio performance for loved  ones. Each week will feature a different mix of princess themes. Ballet  attire &amp; shoes required. Limited to 10 students.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<table class="pages">
+<tbody>
+<tr>
+<td style="width: 220px;">
+<h2 class="red"><span style="color: #000000; font-size: medium;">Additional Dance Camps</span></h2>
+<table class="index">
+<tbody>
+<tr>
+<td><img src="../images/additionalcamp1.jpg" alt="" width="190" height="190" /></td>
+<td><br /></td>
+<td><br /></td>
+</tr>
+<tr>
+<td><img src="../images/additionalcamp2.jpg" alt="" /><br /></td>
+<td><br /></td>
+<td><br /></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td style="padding-left: 25px;">
+<p>Additional camps are a favorite for students that want to focus on improving a specific dance technique. &nbsp;Dance camps we offer include: Ballet, Jazz &amp; Contemporary, Tap, Hip Hop, Break Dance. &nbsp;Previous dance training is recommended for all intermediate and advanced levels offered.&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div> -->
 </div>
 
 <hr>
-
-
-</div>
+<div class="partner-logos"></div>
 
 </div>
+
 </div>
-
-
+</div>
 
 <div class="bottom">
 

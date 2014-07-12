@@ -257,3 +257,5 @@ a.facilities { color: black; }
 .bold { font-weight: bold; }
 .up { text-transform: uppercase; }
 .green { color: green; }
+
+.fright a{color:rgb(204, 105, 103);}
